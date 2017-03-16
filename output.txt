@@ -1,0 +1,4463 @@
+Bihar
+
+--> Araria
+----> Araria
+----> BHARGANWAN
+----> FARBISGANJ
+----> JOKIHAT
+----> KURSAKATA
+----> NARPATGANJ
+----> PALASI
+----> RANIGANJ
+----> SIKTI
+
+--> Arwal
+----> ARWAL
+----> KALER
+----> KARPI
+----> KURTHA
+----> SONEBHADRA BANSI SURJPUR
+
+--> AURANGABAD
+----> AURANGABAD
+----> BARUN
+----> DAUDNAGAR
+----> DEV
+----> GOH
+----> HASPURA
+----> KUTUMBBA
+----> MADANPUR
+----> NABINAGAR
+----> OBRA
+----> RAFIGANJ
+
+--> BANKA
+----> AMARPUR
+----> BANKA
+----> BARAHAT
+----> BAUSI
+----> BELHAR
+----> CHANDAN
+----> DHORAIYA
+----> KATORIA
+----> PHULLIDUMAR
+----> RAJON
+----> SAMBHUGANJ
+
+--> BARAUNI
+----> BACHWARA
+----> BAKHARI
+----> BALIA
+----> BARAUNI
+----> BEGUSARAI
+----> BHAGWANPUR
+----> BIRPUR
+----> CHERIA BARIYARPUR
+----> CHHOURAHI
+----> DANDARI
+----> GARHPURA
+----> KHODABANDPUR
+----> MANSURCHAK
+----> MATIHANI
+----> NAVKOTHI
+----> SAHEBPUR KAMAL
+----> SAMHO AKAHA KURHA
+----> TEGHRA
+
+--> BHOJPUR
+----> 
+----> AGIAWON
+----> ARA SADAR
+----> BARHARA
+----> BHOJPUR
+----> BIHIA
+----> CHARPOKHARI
+----> GARHANI
+----> JAGDISHPUR
+----> KOILWAR
+----> PIRO
+----> SAHAR
+----> SANDESH
+----> SHAHPUR
+----> TARARI
+
+--> Bhagalpur(R)
+----> BIHPUR
+----> GAURADIH
+----> GOPALPUR
+----> ISMALIPUR
+----> JAGDISHPUR
+----> KAHALGAON
+----> KHARIK
+----> NARAYANPUR
+----> NATHNAGAR
+----> NAVGACHIA
+----> PIRPAINTI
+----> RANGRACHOWK
+----> SABOUR
+----> SAHKUND
+----> SANHAULA
+----> SULTANGANJ
+
+--> Bhagalpur(U)
+----> 
+----> 
+----> BHAGALPUR SADAR
+
+--> BUXAR
+----> BRAHMPUR
+----> BUXAR
+----> CHAKKI
+----> CHAUNGAIN
+----> CHAUSA
+----> DUMRAON
+----> ITARHI
+----> KESATH
+----> NAWANAGAR
+----> RAJPUR
+----> SIMARI
+
+--> Champaner(E)
+----> 
+----> 
+----> 
+----> 
+----> ARERAJ
+----> ADAPUR
+----> BANJARIA
+----> CHAKAI
+----> CHHAURADANO
+----> CHIRAIAN
+----> DHAKHA
+----> GHORASAHAN
+----> HARSIDDHI
+----> KALYANPUR
+----> KESHARIA
+----> Kotwa
+----> MADHUBAN
+----> MAHESHI
+----> MOTIHARI
+----> PAHARPUR
+----> Pakridayal
+----> PATAHI
+----> PHENHARA
+----> PIPRAKOTHI
+----> RAMGARHWA
+----> SANGRAMPUR
+----> TETARIA
+----> TURKAULIA
+----> VANKATWA
+
+--> Champaner(W)
+----> BAGHA - 1
+----> BAGHA - 2
+----> BAIRIA
+----> BETTIAH
+----> BHITAHA
+----> CANPATTIA
+----> GAUNAHA
+----> JOGAPATTI
+----> LAURIA
+----> MADHUBANI
+----> MAINATAND
+----> MANJHAULIA
+----> NARKATIAGANJ
+----> NAUTAN
+----> PIPRASI
+----> RAMNAGAR
+----> SIKTA
+----> THAKRAHA
+
+--> Durbanga(R)
+----> ALINAGAR
+----> BAHADURPUR
+----> BAHERI
+----> BENIPUR
+----> BIRAUL
+----> GAURA VAURAM
+----> GHANSHYAMPUR
+----> HABUMAN NAGAR
+----> HAYAGHAT
+----> JALE
+----> KEWATI
+----> KIRATPUR
+----> KUSHESWARSTHAN
+----> KUSHESWARSTHAN EAST
+----> MANIGACHHI
+----> SINGHWARA
+----> TARDIH
+
+--> Durbanga(U)
+----> 
+----> 
+----> DURBANGA SADAR
+
+--> GAYA (R)
+----> ALTRI
+----> AMAS
+----> BANKEY BAZAR
+----> BARACHATTI
+----> BELAGANJ
+----> BODH GAYA
+----> DHOBHI
+----> DUMARIA
+----> FATEHPUR
+----> GARARU
+----> GURUA
+----> IMAMGANJ
+----> KHIZASARAI
+----> KONCH
+----> MANPUR
+----> MOHANPUR
+----> MUHRA
+----> NIMCHAKBATHANI
+----> PARAIYA
+----> SHERGHATI
+----> TANKUPPA
+----> TEKARI
+----> WAZIRGANJ
+
+--> Gaya (U)
+----> GAYA SADAR
+
+--> Gopalganj
+----> BAIKUNTHPUR
+----> BARAULI
+----> BHORE
+----> GOPALGANJ
+----> HATHUA
+----> KETEYA
+----> KUCHAIKOT
+----> MAJHA
+----> PANCHDEVARI
+----> PHULWARIA
+----> SIDHWALIA
+----> THAWE
+----> UCHAKKAGAON
+----> VAROULI
+----> VIJAYEEPUR
+
+--> JAMUI
+----> ASALMANAGAR ALIGANJ
+----> BARHAT
+----> CHAKAI
+----> GIDHAUR
+----> JAJHA
+----> JAMUI
+----> KHAIRA
+----> LAXMIPUR
+----> SIKANDRA
+----> SONO
+
+--> JEHANABAD
+----> GHOSI
+----> HULASGANJ
+----> JEHANABAD
+----> KAKO
+----> MAKHDUMPUR
+----> MODANGANJ
+----> RATNIFRIDPUR
+
+--> Kaimur
+----> ADHAURA
+----> BHABUA
+----> BHAGWANPUR
+----> CHAINPUR
+----> CHAND
+----> DRUGAWATI
+----> KUDRA
+----> MOHANIA
+----> NUAWON
+----> RAMGARH
+----> RAMPUR
+
+--> KATIHAR
+----> KATIHAR
+----> ALAMNAGAR
+----> AMDABAD
+----> BALRAMPUR
+----> BARARI
+----> DANDKHORA
+----> FALKA
+----> HASANGANJ
+----> KARHA
+----> KATIHAR
+----> KODHA
+----> KURSAILA
+----> MANIHARI
+----> MANSAHI
+----> PRANPUR
+----> SAMAILI
+----> WARSOI
+
+--> Khagaria
+----> ALAULI
+----> BELDAUR
+----> CHAUTHAM
+----> GOGRI
+----> Khagaria
+----> MANSI
+----> PARBATTA
+
+--> Kishanganj
+----> BAHADURGANJ
+----> DIGHALBANK
+----> KISHANGANJ
+----> KOCHADHAMAN
+----> POTHIA
+----> TERHAGACHHI
+----> THAKURGANJ
+
+--> Lakhisarai
+----> LAKHISARAI
+
+--> Madhubani
+----> ANDHARATHARHI
+----> BASOPATTI
+----> BENIPATTI
+----> BISFI
+----> GHOGHARDIHA
+----> HARLAKHI
+----> JANJHARPUR
+----> JAYNAGAR
+----> KALUAHI
+----> KHAJAULI
+----> KHUTAUNA
+----> LAGANIA
+----> LAKHNAUR
+----> LAUKAHI
+----> MADHEPUR
+----> Madhubani
+----> MADHWAPUR
+----> PANDAUL
+----> PHULPARAS
+----> RAHIKA
+----> RAJNAGAR
+
+--> Madhepura
+----> ALAMNAGAR
+----> BIHARIGANJ
+----> CHAUSA
+----> DHELARH
+----> GAMHARIA
+----> GWALPARA
+----> KUMARKHAND
+----> MADHEPURA
+----> MURLIGANJ
+----> PURAINI
+----> SHANKARPUR
+----> SIGHESHWARSTHAN
+----> UDA KISHANGANJ
+
+--> MUNGER
+----> ASARGANJ
+----> BARIYARPUR
+----> DHARHARA
+----> HEVELI KHARAGPUR
+----> JAMALPUR BLOCK
+----> MUNGER
+----> SANGRAMPUR
+----> TARAPAR
+----> TATEA BUMBER
+
+--> Muzaffarpur (R)
+----> AURAI
+----> BANDRA
+----> BOCHAHA
+----> GAYGHAT
+----> KANTI
+----> KATRA
+----> KURAHNI
+----> MARAWAN
+----> MINAPUR
+----> MOTIPUR
+----> MURAUL
+----> MUSAHARI
+----> PARU
+----> SAHEBGANJ
+----> SAKRA
+----> SARAIYA
+
+--> Muzaffarpur (U)
+----> 
+----> 
+----> 
+----> 
+----> 
+----> 
+----> 
+----> MUZAFFARPUR SADAR
+
+--> Nalanda
+----> ASTHAWAN
+----> BENA
+----> BIHAR SHARIF
+----> BIND
+----> CHANDI
+----> EKANGARSARAI
+----> GIRIYAK
+----> HARNAUT
+----> HILSA
+----> ISLAMPUR
+----> KARAIPARSURAI
+----> KATRISARAI
+----> NAGARNAUSA
+----> NURSARAI
+----> PARWALPUR
+----> RAHUI
+----> RAJGIR
+----> SARMERA
+----> SILAO
+----> THARTHARI
+
+--> Navada
+----> AKBARPUR
+----> GOVINDPUR
+----> HISUA
+----> KASICHAK
+----> KAUAKOL
+----> MESKAUR
+----> NARDIGANJ
+----> NARHAT
+----> NAWADAH
+----> PAKRIBARAWAN
+----> RAJOULI
+----> ROH
+----> SIRDALLA
+----> VARSALIGANJ
+
+--> Patna (R)
+----> ATHMALGOLA
+----> BAKHTIYARPUR
+----> BARH
+----> BELCHI
+----> BIHTA
+----> BIKRAM
+----> DANAPUR
+----> DANIAWAN
+----> DHANARUA
+----> DULHINBAZAR
+----> FATUHA
+----> GHOSWARI
+----> KHUSRUPUR
+----> MANER
+----> MASAURHI
+----> MOKAMA
+----> NAUBATPUR
+----> PALIGANJ
+----> PANDARAK
+----> PHULWARISHARIF
+----> PUNPUN
+----> SAMPATCHAK
+
+--> Patna (U)
+----> 
+----> 
+----> 
+----> 
+----> 
+----> 
+----> 
+----> 
+----> 
+----> 
+----> 
+----> 
+----> 
+----> 
+----> 
+----> 
+----> 
+----> 
+----> 
+----> 
+----> 
+----> 
+----> 
+----> 
+----> 
+----> 
+----> 
+----> 
+----> 
+----> 
+----> 
+----> 
+----> 
+----> 
+----> 
+----> 
+----> PATNA SADAR
+
+--> Purnia
+----> AMAUR
+----> BANMANKHI
+----> BHAWANIPUR
+----> BAISA
+----> BARHARAKOTHI
+----> DHAMDAHA
+----> PURNIA
+----> VAISI
+
+--> Rohtas
+----> AKORHIGOLA
+----> CHENARI
+----> DAWATH
+----> DEHRI
+----> DINARA
+----> KARAKAT
+----> KARGAHAR
+----> KOCHAS
+----> NASRIGANJ
+----> NAUHATTA
+----> NOKHA
+----> RAJPUR
+----> ROHTAS
+----> SANJHAULI
+----> SASARAM
+----> SHIVSAGAR
+----> SURYAPURA
+----> TILAUTHU
+----> VIKRAMGANJ
+
+--> Saharsa
+----> BANMA ITAHARI
+----> KAHRA
+----> MAHISHI
+----> NAUHATTA
+----> PATARGHAT
+----> Saharsa
+----> SALKHUA
+----> SATTAR KATEYA
+----> SAURBAZAR
+----> SIMARI BAKHATIYARPUR
+----> SONBARSA
+
+--> Samastipur
+----> BIBHUTIPUR
+----> BITHAN
+----> DALSINGHSARAI
+----> HASANPUR
+----> JITWARPUR
+----> KALYANPUR
+----> KHANPUR
+----> MOHANPUR
+----> MOHIUDDINNAGAR
+----> PATORI
+----> PUSA
+----> ROSARA
+----> Samastipur
+----> SARAIRANJAN
+----> SINGHIA
+----> TAJPUR
+----> TAJPUR MORWA
+----> UJIYARPUR
+----> VIDYAPATINAGAR
+----> WARISNAGAR
+
+--> Saran
+----> Amnuar
+----> Baniyapur
+----> Chapra Sadar
+----> Chapra Sadar
+----> Dariyapur
+----> Digwara
+----> Ekma
+----> Eshuapur
+----> Garkha
+----> Jalapur
+----> Khaira
+----> Lahladpur Jantabazar
+----> Maker
+----> Manjhi
+----> Marhaura
+----> Mashrak
+----> Nagra
+----> Panapur
+----> Parsa
+----> RevilGanj
+----> Sonepur
+----> Taraiya
+
+--> Sheikhpura
+----> 
+----> ARIARI
+----> BARBIGHA
+----> CHEBARA
+----> GHATKUSUMBA
+----> SHEIKHPURA
+----> SHEKHOPUR SARAI
+
+--> Shivhar
+----> 
+----> DUMRI KATSARI
+----> PIPRAHI
+----> PURNAHIA
+----> SHIVHAR SADAR
+----> TARIYANI
+
+--> Sitamarhi
+----> BARIGANIA
+----> BATHNAHA
+----> BAZPATII
+----> BELSAND
+----> BOKHRA
+----> CHOROUT
+----> DUMRA
+----> MAJORGANJ
+----> NANPUR
+----> PARIHAR
+----> PARSAUNI
+----> PUPRI
+----> RIGA
+----> RUNNI SAIDPUR
+----> SAMASTIPUR SADAR
+----> SONBARSA
+----> SUPPI
+----> SURSAND
+
+--> Siwan
+----> Aandar
+----> Baraharia
+----> Basantpur
+----> Bhagwanpur Hat
+----> Darauli
+----> Daraunda
+----> Goriyakothi
+----> Guthani
+----> Hasanpur
+----> Husainaganj
+----> Jiradei
+----> Lakari Nabiganj
+----> MaharajGanj
+----> Mairwan
+----> Nautan
+----> Pachrukhi
+----> Raghunathpur
+----> Siswan
+----> Siwan Sadar
+
+--> SUPAUL
+----> BASANTPUR
+----> CHHATAPUR
+----> KISHUNPUR
+----> MARAUNA
+----> NIRMALI
+----> PARATAPGANJ
+----> PIPARA
+----> RAGHOPUR
+----> SARAIGARH BHAPTIYAHI
+----> SUPAUL
+----> TRIVENIGANJ
+
+--> Vaishali
+----> BHAGWANPUR
+----> BIDUPUR
+----> CHEHRAKALA
+----> DESARI
+----> GARAUL
+----> HAJIPUR
+----> JANDAHA
+----> LALGANJ
+----> MAHNAR
+----> MAHUA
+----> PATEDHI BELSHAR
+----> PATEPUR
+----> RAGHOPUR
+----> RAZAPAKAR
+----> SAHADAI BUZURG
+----> Vaishali
+
+
+Chhattisgarh
+
+--> BALOD
+----> BALOD
+----> DONDEE
+----> DONDILOHARA
+----> GUNDARDEHI
+----> GURUR
+
+--> BASTAR
+----> BAKAVAND
+----> BASTANAAR
+----> BASTAR
+----> DARBHA
+----> JAGADALPUR
+----> LOHANDIGUDA
+----> TOKOPAAL
+
+--> BEMETARA
+----> BEMETARA
+----> BERLAA
+----> NAVAAGARH
+----> SAJA
+
+--> BIJAPUR
+----> BHAIRAMGARH
+----> BHOPALPATTANAM
+----> BIJAPUR
+----> USOOR
+
+--> BALODABAZAAR
+----> BALODABAZAAR
+----> BHATAPARA
+----> BILAIGARH
+----> KASDOL
+----> PALARI
+----> SIMGA
+
+--> BALRAMPUR
+----> BALRAMPUR
+----> KUSMI
+----> RAJPUR
+----> RAMANUJGANJ
+----> SHANKARGARH
+----> VANDRAFNAGAR
+
+--> BILASPUR (R)
+----> BILASPUR RURAL
+----> BILASPUR-OTHERS
+----> BILHA
+----> GAURELA
+----> KOTA
+----> MARAVAHI
+----> MASTOORI
+----> PENDRA
+----> TAKHATPUR
+
+--> BILASPUR (C)
+----> Bilaspur Nagar Nigam
+----> BILASPUR-OTHERS
+
+--> DHAMTARI
+----> DHAMTARI
+----> DHARSEEVA
+----> KURUD
+----> MAGARLOD
+----> NAGARI
+
+--> DANTEWADA
+----> GEEDAM
+----> KATEKALYAAN
+----> KUAKONDA
+
+--> DURG (Rural+Bhilai)
+----> DAMDHA NAGAR PANCHAYAT
+----> DURG NAGAR NIGAM
+----> DURG RURAL
+----> Thanakhamria
+----> UTAI NAGAR PANCHAYAT
+----> Villages in Dhamdha Block
+
+--> DURG URBAN
+----> AHIWARA NAGAR PANCHAYAT
+----> BHILAI NAGAR NIGAM
+----> Bhilai-Charoda Nagar Palika Parishad
+----> JAMUL NAGAR PALIKA PARISHAD
+----> KUMHARI NAGAR PALIKA PARISHAD
+----> Other Taluka of DZ2
+----> PATAN NAGAR PANCHAYAT
+----> Villages in Patan Block
+
+--> GARIYABAND
+----> CHHURA
+----> DEVBHOG
+----> FINGESHWAR
+----> GARIYABAND
+----> MAINPUR
+
+--> JANJGIR
+----> AKALATARA
+----> BALAUDA
+----> BAMHANIDEEH
+----> DABHARA
+----> JAIJEPUR
+----> MAALKHARAUD
+----> NAVAGARH
+----> PAAMGARH
+----> SAKTI
+
+--> JASHPUR
+----> BAGEECHA
+----> DULDULA
+----> KUNKUREE
+----> MANORA
+----> PATTHALGAON
+----> PHARASABAHAAR
+
+--> KANKER
+----> ANTAGARH
+----> BHANUPRATAPPUR
+----> CHARAMA
+----> DURG KONDAL
+----> KANKER
+----> KANSABEL
+----> KOYALIBEDA
+----> NARHARPUR
+----> PAKHANJUR
+
+--> KABIRDHAM
+----> BODLAA
+----> KABIRDHAM
+----> KAWARDHA
+----> PANDRIYA
+----> SAHASPUR LOHARA
+
+--> KONDAGAON
+----> BADERAJPUR
+----> KESHKAAL
+----> KONDAGAON
+----> MAAKDI
+----> PHARASAGAON
+
+--> KORIA
+----> BAIKUNTHPUR
+----> BHARATPUR
+----> KHADGAVAN
+----> MANENDRAGARH
+----> SONHAT
+
+--> KORBA
+----> KARTALA
+----> KATGHORA
+----> KORBA
+----> PAALI
+----> PODIUPARODA
+
+--> MAHASAMUND
+----> BAAGBAHARA
+----> BASANA
+----> MAHASAMUND
+----> PITHAURA
+----> SARAIPALI
+
+--> MUNGELI
+----> LORMI
+----> MUNGELI
+----> PATHARIYA
+
+--> NARAYANPUR
+----> NARAYANPUR
+----> NARHARPUR
+----> ORCHHA
+
+--> RAIGARH
+----> BARAMAKELA
+----> DHARAMJAIGARH
+----> GHARGHODA
+----> KHARSIYA
+----> LAULOONGA
+----> PUSAUR
+----> RAIGARH
+----> SARANGARH
+----> TAMANAAR
+
+--> RAJNANDGAON
+----> CHAUKEE
+----> CHHUIKHADAAN
+----> CHHURIYA
+----> DONGARGAON
+----> DONGARGARH
+----> KHAIRAGARH
+----> MAANPUR
+----> MOHALAA
+----> RAJNANDGAON
+
+--> RAIPUR Z-1
+----> AARNG
+----> ABHANPUR
+----> Raipur Rural
+----> TILDA
+
+--> RAIPUR Z-2 (01-30)
+----> RAIPUR ZONE 1
+----> RAIPUR ZONE 10
+----> RAIPUR ZONE 11
+----> RAIPUR ZONE 12
+----> RAIPUR ZONE 13
+----> RAIPUR ZONE 14
+----> RAIPUR ZONE 15
+----> RAIPUR ZONE 16
+----> RAIPUR ZONE 17
+----> RAIPUR ZONE 18
+----> RAIPUR ZONE 19
+----> RAIPUR ZONE 2
+----> RAIPUR ZONE 20
+----> RAIPUR ZONE 21
+----> RAIPUR ZONE 22
+----> RAIPUR ZONE 23
+----> RAIPUR ZONE 24
+----> RAIPUR ZONE 25
+----> RAIPUR ZONE 26
+----> RAIPUR ZONE 27
+----> RAIPUR ZONE 28
+----> RAIPUR ZONE 29
+----> RAIPUR ZONE 3
+----> RAIPUR ZONE 30
+----> RAIPUR ZONE 4
+----> RAIPUR ZONE 5
+----> RAIPUR ZONE 6
+----> RAIPUR ZONE 7
+----> RAIPUR ZONE 8
+----> RAIPUR ZONE 9
+
+--> RAIPUR Z-3 (31-40)
+----> RAIPUR ZONE 31
+----> RAIPUR ZONE 32
+----> RAIPUR ZONE 33
+----> RAIPUR ZONE 34
+----> RAIPUR ZONE 35
+----> RAIPUR ZONE 36
+----> RAIPUR ZONE 37
+----> RAIPUR ZONE 38
+----> RAIPUR ZONE 39
+----> RAIPUR ZONE 40
+
+--> RAIPUR Z-4 (41-70)
+----> RAIPUR ZONE 41
+----> RAIPUR ZONE 42
+----> RAIPUR ZONE 43
+----> RAIPUR ZONE 44
+----> RAIPUR ZONE 45
+----> RAIPUR ZONE 46
+----> RAIPUR ZONE 47
+----> RAIPUR ZONE 48
+----> RAIPUR ZONE 49
+----> RAIPUR ZONE 50
+----> RAIPUR ZONE 51
+----> RAIPUR ZONE 52
+----> RAIPUR ZONE 53
+----> RAIPUR ZONE 54
+----> RAIPUR ZONE 55
+----> RAIPUR ZONE 56
+----> RAIPUR ZONE 57
+----> RAIPUR ZONE 58
+----> RAIPUR ZONE 59
+----> RAIPUR ZONE 60
+----> RAIPUR ZONE 61
+----> RAIPUR ZONE 62
+----> RAIPUR ZONE 63
+----> RAIPUR ZONE 64
+----> RAIPUR ZONE 65
+----> RAIPUR ZONE 66
+----> RAIPUR ZONE 67
+----> RAIPUR ZONE 68
+----> RAIPUR ZONE 69
+----> RAIPUR ZONE 70
+
+--> SARGUJA
+----> AMBIKAPUR
+----> BATAULI
+----> LAKHANPUR
+----> LUNDRA
+----> MAINPAAT
+----> SARAYAPAALI
+----> SARNGGARH
+----> SEETAPUR
+----> UDAYAPUR
+
+--> SURAJPUR
+----> BHAIYATHAN
+----> ODAGI
+----> PRATAPPUR
+----> PREMNAGAR
+----> RAMANUJNAGAR
+----> SURAJPUR
+
+--> SUKAMA
+----> CHHINDGARH
+----> KONTA
+----> SUKAMA
+
+
+Delhi
+
+--> Adarsh Nagar (4)
+----> Adarsh Nagar (4)
+
+--> Ambedkar Nagar (48)
+----> Ambedkar Nagar (48)
+
+--> Badli (5)
+----> Badli (5)
+
+--> Ballimaran (22)
+----> Ballimaran (22)
+
+--> Bawana (7)
+----> Bawana (7)
+
+--> Babar Pur (67)
+----> Babar Pur (67)
+
+--> Badarpur (53)
+----> Badarpur (53)
+
+--> Bijwasan (36)
+----> Bijwasan (36)
+
+--> Burari (2)
+----> Burari (2)
+
+--> Chandni Chowk (20)
+----> Chandni Chowk (20)
+
+--> Chhatar pur (46)
+----> Chhatar pur (46)
+
+--> Deoil (47)
+----> Deoil (47)
+
+--> Delhi Cantt. (38)
+----> Delhi Cantt. (38)
+
+--> Dwarka (33)
+----> Dwarka (33)
+
+--> Ghonda (66)
+----> Ghonda (66)
+
+--> Gokul Pur (68)
+----> Gokul Pur (68)
+
+--> Gandhi Nagar (61)
+----> Gandhi Nagar (61)
+
+--> Greater Kailash (50)
+----> Greater Kailash (50)
+
+--> Hari Nagar (28)
+----> Hari Nagar (28)
+
+--> JanakPuri (30)
+----> JanakPuri (30)
+
+--> Janga Pura (41)
+----> Janga Pura (41)
+
+--> Kirari (9)
+----> Kirari (9)
+
+--> Kalka Ji (51)
+----> Kalka Ji (51)
+
+--> Kondli (56)
+----> Kondli (56)
+
+--> Karol Bagh (23)
+----> Karol Bagh (23)
+
+--> Krishna Nagar (60)
+----> Krishna Nagar (60)
+
+--> Karawal Nagar (70)
+----> Karawal Nagar (70)
+
+--> Kasturba Nagar (42)
+----> Kasturba Nagar (42)
+
+--> Laxmi Nagar (58)
+----> Laxmi Nagar (58)
+
+--> Matiala (34)
+----> Matiala (34)
+
+--> Madipur (26)
+----> Madipur (26)
+
+--> Model Town (18)
+----> Model Town (18)
+
+--> Mehrauli (45)
+----> Mehrauli (45)
+
+--> Malviya Nagar (43)
+----> Malviya Nagar (43)
+
+--> Mangol Puri (12)
+----> Mangol Puri (12)
+
+--> Mustafa Bad (69)
+----> Mustafa Bad (69)
+
+--> Matia Mahal (21)
+----> Matia Mahal (21)
+
+--> Moti Nagar (24)
+----> Moti Nagar (24)
+
+--> Mundka (8)
+----> Mundka (8)
+
+--> Najafgarh (35)
+----> Najafgarh (35)
+
+--> Narela (1)
+----> Narela (1)
+
+--> New Delhi (40)
+----> New Delhi (40)
+
+--> Nangloi Jat (11)
+----> Nangloi Jat (11)
+
+--> Okhla (54)
+----> Okhla (54)
+
+--> Palam (37)
+----> Palam (37)
+
+--> Patpar Ganj (57)
+----> Patpar Ganj (57)
+
+--> Patel Nagar (24)
+----> Patel Nagar (24)
+
+--> Rajindra Nagar (39)
+----> Rajindra Nagar (39)
+
+--> Rohtas Nagar (64)
+----> Rohtas Nagar (64)
+
+--> Rithala (6)
+----> Rithala (6)
+
+--> Rajouri Garden (27)
+----> Rajouri Garden (27)
+
+--> R.K.Puram (44)
+----> R.K.Puram (44)
+
+--> Rohini (13)
+----> Rohini (13)
+
+--> Sadar Bazar (19)
+----> Sadar Bazar (19)
+
+--> Shahdara (62)
+----> Shahdara (62)
+
+--> Shalimar Bagh (14)
+----> Shalimar Bagh (14)
+
+--> Shakur Basti (15)
+----> Shakur Basti (15)
+
+--> Seelam Pur (65)
+----> Seelam Pur (65)
+
+--> Seema Puri (63)
+----> Seema Puri (63)
+
+--> Sangam Vihar (49)
+----> Sangam Vihar (49)
+
+--> Sultanpur Majra (10)
+----> Sultanpur Majra (10)
+
+--> Tughlaka Bad (52)
+----> Tughlaka Bad (52)
+
+--> Tilak Nagar (28)
+----> Tilak Nagar (28)
+
+--> Timarpur (3)
+----> Timarpur (3)
+
+--> Tri Nagar (16)
+----> Tri Nagar (16)
+
+--> Trilok Puri (55)
+----> Trilok Puri (55)
+
+--> Uttam Nagar (32)
+----> Uttam Nagar (32)
+
+--> Vishwas Nagar (59)
+----> Vishwas Nagar (59)
+
+--> Vikas Puri (31)
+----> Vikas Puri (31)
+
+--> Wazirpur (17)
+----> Wazirpur (17)
+
+
+Goa
+
+--> North Goa
+----> Bardez
+----> Bicholim
+----> Pernem
+----> Ponda
+----> Sattari
+----> Tiswadi
+
+--> South Goa
+----> Canacona
+----> Dharbandora
+----> Mormugao
+----> Quepem
+----> Salcete
+----> Sanguem
+
+
+Gujarat
+
+--> Ahmedabad-II
+----> AMBAVADI
+----> AMBLI
+----> BODAKDEV
+----> CHANDKHEDA
+----> CHANDLODIA
+----> ELLIS BRIDGE
+----> GHATLODIA
+----> GOTA
+----> JIVRAJ PARK
+----> JODHPUR
+----> JUHAPURA
+----> MEMNAGAR
+----> MOTERA
+----> NARANPURA
+----> NAVRANG PURA
+----> PALDI
+----> RANIP
+----> SABARMATI
+----> SARKHEJ
+----> SATELLITE
+----> SOLA
+----> THALTEJ
+----> USMANPURA
+----> VADAJ
+----> VASANA
+----> VASTRAPUR
+----> VEJALPUR
+
+--> AHMEDABAD City
+----> AHMEDABAD City
+----> AMRAIWADI
+----> ASARVA
+----> ASTODIA
+----> BAHERAMPURA
+----> BAPUNAGAR
+----> BISCUIT GALI
+----> CHAMANPURA
+----> DANILIMDA
+----> DARIYAPUR
+----> DELHI CHAKLA
+----> ELLORA COM. CENTER
+----> GANDHI ROAD
+----> GEETA MANDIR
+----> GHEE KANTA
+----> GHODASAR
+----> GOMTIPUR
+----> HANSOL
+----> ISANPUR
+----> JAMALPUR
+----> KALUPUR
+----> KANKARIA
+----> KHADIA
+----> KHAMASA
+----> KHANPUR
+----> KHOKHARA
+----> KUBER NAGAR
+----> LAL DARWAJA
+----> LAMBHA
+----> MANINAGAR
+----> MEGHANI NAGAR
+----> MIRZAPUR
+----> NAGAR SHETH NO VANDO
+----> NANA CHILODA
+----> NARODA
+----> NAROL
+----> NIKOL
+----> ODHAV
+----> PIPLAJ
+----> RAIPUR
+----> RAKHIYAL
+----> RAMOL
+----> RATNAMANI COM
+----> RELIEF SHOPPING CENTER
+----> SAIJPUR BOGHA
+----> SARANGPUR
+----> SARASPUR
+----> SARDAR NAGAR
+----> SARVODAY COM
+----> SHAH ALAM
+----> SHAHIBAG
+----> SHAHPUR
+----> SPECTRUM COM. CENTER
+----> VASTRAL
+----> VATVA
+
+--> Amreli
+----> AMRELI
+----> BABRA
+----> BAGASARA
+----> DHARI
+----> JAFRABAD
+----> KHAMBHA
+----> KUNKAVAV VADIA
+----> LATHI
+----> LILIA
+----> RAJULA
+----> SAVARKUNDLA
+
+--> Anand
+----> ANAND
+----> ANKLAV
+----> BORSAD
+----> KHAMBHAT
+----> PETLAD
+----> SOJITRA
+----> TARAPUR
+----> UMRETH
+
+--> Bharuch
+----> AMOD
+----> ANKLESVAR
+----> BHARUCH
+----> HANSOT
+----> JAMBUSAR
+----> JHAGADIA
+----> VAGRA
+----> VALIA
+
+--> Narmada
+----> DEDIAPADA
+----> NANDOD
+----> SAGBARA
+----> TILAKWADA
+
+--> Kutch
+----> ABDASA
+----> ANJAR
+----> BHACHAU
+----> BHUJ
+----> GANDHIDHAM
+----> LAKHPAT
+----> MANDVI
+----> MUNDRA
+----> NAKHATRANA
+----> RAHPAR
+
+--> Bhavnagar
+----> BHAVNAGAR
+----> GARIADHAR
+----> GHOGHA
+----> MAHUVA
+----> PALITANA
+----> SHIHOR
+----> TALAJA
+----> UMRALA
+----> VALLABHIPUR
+
+--> Botad
+----> BARVALA
+----> BOTAD
+----> GADHADA
+----> RANPUR
+
+--> Dahod
+----> DAHOD
+----> DEVGADBARIA
+----> DHANPUR
+----> FATEPURA
+----> GARBADA
+----> JHALOD
+----> LIMKHEDA
+
+--> Ahmedabad - Rural
+----> BAVLA
+----> DASKROI
+----> DATROJ
+----> DHANDHUKA
+----> DHOLERA
+----> DHOLKA
+----> MANDAL
+----> RAMPURA/BANKODA
+----> SANAND
+----> VIRAMGAM
+
+--> Gandhinagar
+----> DEHGAM
+----> Gandhinagar
+----> KALOL
+----> MANSA
+
+--> Panchmahals
+----> .KADANA(s)
+----> .KHANPUR(s)
+----> .LUNAWADA(s)
+----> .SANTRAMPUR(s)
+----> GHOGHMBA
+----> GODHRA
+----> HALOL
+----> JAMBUGHODA
+----> KALOL
+----> MORVA(HADAF)
+----> SHEHERA
+
+--> Aravalli
+----> BAYAD
+----> BHILODA
+----> DHANSURA
+----> MALPUR
+----> MEGHRAJ
+----> MODASA
+
+--> Himatnagar
+----> HIMATNAGAR
+----> IDAR
+----> KHEDBRAHMA
+----> PRANTIJ
+----> TALOD
+----> VADALI
+----> VIJAYNAGAR
+
+--> Devbhumi Dwarka
+----> BHANVAD
+----> DWARKA
+----> KALYANPUR
+----> KHAMBHALIA
+----> OKHAMANDAL
+
+--> Jamnagar
+----> DHROL
+----> JAMJODHPUR
+----> Jamnagar
+----> JODIYA
+----> KALAVAD
+----> LALPUR
+
+--> Gir-Somnath
+----> KODINAR
+----> P-VERAVAL
+----> SUTRAPADA
+----> TALALA
+----> UNA
+
+--> Junagadh
+----> BHESAN
+----> JUNAGADH
+----> KESHOD
+----> MALIA
+----> MANAVADAR
+----> MANGROL
+----> MENDARDA
+----> VANTHALI
+----> VISAVADAR
+
+--> Mehsana
+----> BECHARAJI
+----> GOZARIA
+----> KADI
+----> KALOL
+----> KHERALU
+----> MEHSANA
+----> SATLASANA
+----> UNJHA
+----> VADNAGAR
+----> VIJAPUR
+----> VISNAGAR
+
+--> Kheda
+----> GALATESHWAR
+----> KAPADVANJ
+----> KATHLAL
+----> KHEDA
+----> MAHUDHA
+----> MATAR
+----> MEHMEDABAD
+----> NADIAD
+----> THASRA
+----> VASO
+
+--> MahiSagar
+----> BALASINOR
+----> VIRPUR
+
+--> Navasari
+----> CHIKHLI
+----> GANDEVI
+----> JALALPOR
+----> NAVSARI
+----> VANSADA
+
+--> Palanpur
+----> AMIRGADH
+----> BHABHAR
+----> BHILDI
+----> DANTA
+----> DANTIWADA
+----> DEESA
+----> DEODAR
+----> DHANERA
+----> KANKREJ
+----> PALANPUR
+----> PANTHAVADA
+----> THARAD
+----> VADGAM
+----> VAV
+
+--> Patan
+----> CHANASMA
+----> HARIJ
+----> PATAN
+----> RADHANPUR
+----> SAMI
+----> SANTALPUR
+----> SIDHPUR
+
+--> Porbandar
+----> KUTIYANA
+----> PORBANDAR
+----> RANAVAV
+
+--> Morbi
+----> .MALIYA(m)
+----> .TANKARA(m)
+----> .WANKANER(m)
+----> HALVAD
+----> Morbi
+
+--> Rajkot
+----> DHORAJI
+----> GONDAL
+----> JAMKANDORNA
+----> JASDAN
+----> JETPUR
+----> KOTDA SANGANI
+----> LODHIKA
+----> MORBI
+----> PADDHARI
+----> RAJKOT
+----> UPLETA
+
+--> Surendranagar
+----> CHOTILA
+----> CHUDA
+----> DASADA
+----> DHRANGADHRA
+----> LAKHTAR
+----> LIMBDI
+----> MULI
+----> SAYLA
+----> WADHWAN
+
+--> Surat
+----> BARDOLI
+----> CHORASI
+----> KAMREJ
+----> MAHUVA
+----> MANDVI
+----> MANGROL
+----> OLPAD
+----> PALSANA
+----> SURAT CITY
+
+--> Tapi
+----> NIZAR
+----> SONGADH
+----> UCHCHHAL
+----> UMARPADA
+----> VALOD
+----> VYARA
+
+--> Chhota Udaipur
+----> CHHOTA UDAIPUR
+----> JETPUR PAVI
+----> NASWADI
+----> SANKHEDA
+
+--> Vadodara
+----> DABHOI
+----> KARJAN
+----> PADRA
+----> QUANT
+----> SAVLI
+----> SINOR
+----> VADODARA
+----> WAGHODIA
+
+--> Ahwa-Dangs
+----> Ahwa-Dangs
+
+--> Valsad
+----> DHARAMPUR
+----> KAPRADA
+----> PARDI
+----> UMBERGAON
+----> VALSAD
+
+
+Haryana
+
+--> Ambala
+
+--> Bhiwani
+
+--> Faridabad
+
+--> Fatehabad
+
+--> Gurgaon
+
+--> FDA Haryan
+
+--> Hisar
+
+--> Jhajjar
+
+--> Jind
+
+--> Kaithal
+
+--> Karnal
+
+--> Kurukshetra
+
+--> Mewat
+
+--> Narnaul
+
+--> Panchkula
+
+--> Palwal
+
+--> Panipat
+
+--> Rewari
+
+--> Rohtak
+
+--> Sirsa
+
+--> Sonipat
+
+--> YamunaNagar
+
+
+Himachal Pradesh
+
+--> Bilaspur
+----> Ghumarwin
+----> Jhandutta
+----> Sadar
+----> Swarghat
+
+--> Chamba
+----> Bharmour
+----> Bhatiyat
+----> Chamba
+----> Churah
+----> Dalhousie
+----> Pangi
+----> Salooni
+
+--> Hamirpur
+----> Barsar
+----> Bhoranj
+----> Hamirpur
+----> Nadaun
+----> Sujanpur
+
+--> Kangra
+----> Baijnath
+----> Dehra
+----> Dharamshala
+----> Dheera
+----> Fatehpur
+----> Indora
+----> Jaisinghpur
+----> Jaswan Kotla
+----> Jawali
+----> Kangra
+----> Khundian
+----> Nagarota
+----> Nurpur
+----> Palampur
+----> Rakker
+----> Shahpur
+----> Thural
+
+--> Kinnaur
+----> Kalpa
+----> Moorang
+----> Nichar
+----> Peo
+----> Pooh
+----> Sangla
+
+--> Kullu
+----> Anni (Only BMW)
+----> Banjar
+----> Kullu
+----> Manali
+----> Nirmand
+
+--> L & S(Kullu)
+----> Keylong
+----> Udaipur
+
+--> Mandi
+----> Gohar
+----> Joginder Nagar
+----> Karsog
+----> Lad Bharol
+----> Mandi Sadar
+----> Padhar
+----> Sarkaghat
+----> Sunder Nagar
+
+--> Shimla
+----> Chirgaon
+----> Chopal
+----> Dodra Kawar
+----> Jubbal
+----> Kotkhai
+----> Kumarsain
+----> Rampur
+----> Rohru
+----> Shimla(R)
+----> Shimla(U)
+----> Sunni
+----> Theog
+
+--> Sirmour
+----> Nahan
+----> Pachhad
+----> Paonta
+----> Rajgarh
+----> Sangrah
+----> Shillai
+
+--> Solan (BBN)
+----> Baddi
+----> Kasauli-Baddi
+----> Nalagarh
+
+--> Solan
+----> Arki
+----> Kandaghat
+----> Kasauli-Parwanoo
+----> Nalagarh(BMW)
+----> Solan
+
+--> Una
+----> Amb
+----> Bangana
+----> Haroli
+----> Una
+
+
+Jharkhand
+
+--> Bokaro 1
+----> Bokaro 1
+
+--> Bokaro 2
+----> Bokaro 2
+
+--> Bokaro 3
+----> Bokaro 3
+
+--> Chatra
+----> Chatra
+
+--> Deoghar
+----> Deoghar
+
+--> Dhanbad 1
+----> Dhanbad 1
+
+--> Dhanbad 2
+----> Dhanbad 2
+
+--> Dhanbad 3
+----> Dhanbad 3
+
+--> Dumka
+----> Dumka
+
+--> East Singhbhum
+----> East Singhbhum
+
+--> Gadhwa
+----> Gadhwa
+
+--> Giridih
+----> Giridih
+
+--> Godda
+----> Godda
+
+--> Gumla
+----> Gumla
+
+--> Hazaribagh
+----> Hazaribagh
+
+--> East Singhbhum 1
+----> East Singhbhum 1
+
+--> East Singhbhum 2
+----> East Singhbhum 2
+
+--> East Singhbhum 3
+----> East Singhbhum 3
+
+--> Jamtara
+----> Jamtara
+
+--> Khunti
+----> Khunti
+
+--> Koderma
+----> Koderma
+
+--> Latehar
+----> Latehar
+
+--> Lohardaga
+----> Lohardaga
+
+--> Palamu
+----> Palamu
+
+--> Pakur
+----> Pakur
+
+--> Ramgarh
+----> Ramgarh
+
+--> Ranchi 1
+----> Ranchi 1
+
+--> Ranchi 2
+----> Ranchi 2
+
+--> Ranchi 3
+----> Ranchi 3
+
+--> Ranchi 4
+----> Ranchi 4
+
+--> Ranchi Zone5
+----> Ranchi Zone5
+
+--> Ranchi Zone6
+----> Ranchi Zone6
+
+--> Sahebganj
+----> Sahebganj
+
+--> Simdega
+----> Simdega
+
+--> Saraikela Kharsawan
+----> Saraikela Kharsawan
+
+--> West Singhbhum
+----> West Singhbhum
+
+
+Kerala
+
+--> Alappuzha
+----> Ambalapuzha
+----> Chengannur
+----> Cherthala
+----> Karthikappally
+----> Kuttanad
+----> Mavelikkara
+
+--> Ernakulam
+----> Aluva
+----> Kanayannur
+----> Kochi
+----> Kothamangalam
+----> Kunnathunadu
+----> Muvattupuzha
+----> Paravur
+
+--> Idukki
+----> Devicolam
+----> Iduki
+----> Peerumede
+----> Thodupuzha
+----> Udumbanchola
+
+--> Kasargod
+----> Hosdurg
+----> Kasaragod
+----> Manjeshwaram
+----> Vellarikundu
+
+--> Kozhikode
+----> Koyilandi
+----> Kozhikode
+----> Thamaressery
+----> Vadakara
+
+--> Kollam
+----> Karunagappally
+----> Kollam
+----> Kottarakkara
+----> Kunnathur
+----> Pathanapuram
+----> Punalur
+
+--> Kannur
+----> IRITTY
+----> Kannur
+----> Thalassery
+----> Thaliparambu
+
+--> Kottayam
+----> Changanacherry
+----> Kanjirappally
+----> Kottayam
+----> Meenachil
+----> Vaikom
+
+--> Malappuram
+----> Eranadu
+----> Kondotty
+----> Nilambur
+----> Perinthalmanna
+----> Ponnani
+----> Thirur
+----> Thirurangadi
+
+--> Palakkad
+----> Alathur
+----> Chittur
+----> Mannarkkad
+----> Ottappalam
+----> Palakkad
+----> Pattambi
+
+--> Pathanamthitta
+----> Adoor
+----> Konni
+----> Kozhenchery
+----> Mallappally
+----> Ranny
+----> Thiruvalla
+
+--> Thrissur
+----> Chalakkudy
+----> Chavakkad
+----> Kodungallur
+----> Mukundapuram
+----> Thalappilly
+----> Thrissur
+
+--> Thiruvananthapuram
+----> Chirayinkeezhu
+----> Kattakada
+----> Nedumangad
+----> Neyyatinkara
+----> Thiruvananthapuram
+----> Varkala
+
+--> Wynad
+----> Mananthavady
+----> Sulthan Bathery
+----> Vaithiri
+
+
+Maharashtra
+
+--> AHMEDNAGAR
+----> Ahmednagar
+----> Akole
+----> Jamkhed
+----> Karjat
+----> Kopargaon
+----> Nevasa
+----> Parner
+----> Pathardi
+----> Rahata
+----> Rahuri
+----> Sangamner
+----> Shevgaon
+----> Shrigonda
+----> Shrirampur
+
+--> Akola
+----> Akola
+----> Akot
+----> Balapur
+----> Barshitakli
+----> Murtajapur
+----> Patur
+----> Telhara
+
+--> WASHIM
+----> Karanja
+----> Malegaon
+----> Mangrulpir
+----> Manora
+----> Risod
+----> WASHIM
+
+--> AMARAVATI
+----> Achalpur
+----> Amravati
+----> Anjangaon Surji
+----> Bhatukali
+----> Chandur
+----> Chandurbazar
+----> Chikhaldara
+----> Daryapur
+----> Dhamangaon
+----> Dharni, Amravati
+----> Morshi
+----> Nandgaon Khandeshwar
+----> Tiosa
+----> Warud
+
+--> AURANGABAD
+----> Aurangabad
+----> Aurangabad (Corporation ward A&D)
+----> Aurangabad (Corporation ward B&E)
+----> Aurangabad (Corporation ward C&F)
+----> Aurangabad Taluka (other than Corporation Area)
+----> Aurangabad-Z1 Talukas
+----> Aurangabad-Z2 Talukas
+
+--> AURANGABAD ZONE 2
+----> Aurangabad Zone 2
+----> Gangapur
+----> Kannad
+----> Khuldabad
+----> Paithan
+----> Phulambri
+----> Sillod
+----> Soegaon
+----> Vaijapur
+
+--> BEED
+----> Ambejogai
+----> Ashti
+----> Beed
+----> Dharur
+----> Georai
+----> Kaij
+----> Manjalgaon
+----> Parli
+----> Patoda
+----> Shirur Kasar
+----> Wadwani
+
+--> BHANDARA
+----> Bhandara
+----> Lakhandur
+----> Lakhni
+----> Mohadi
+----> Pauni
+----> Sakoli
+----> Tumsar
+
+--> Gondia
+----> Amgaon
+----> Arjuni Morgaon
+----> Deori
+----> Gondia
+----> Goregaon
+----> Sadak Arjuni
+----> Salekasa
+----> Tirora
+
+--> BULDANA
+----> BULDANA
+----> Chikhli
+----> Deulgaon Raja
+----> Jalgaon Jamod
+----> Khamgaon
+----> Lonar
+----> Malkapur
+----> Mehkar
+----> Motala
+----> Nandura
+----> Sangrampur
+----> Shegaon
+----> Sindkhed Raja
+
+--> CHANDRAPUR
+----> Ballarpur
+----> Bhadravati
+----> Brahmapuri
+----> Chandrapur
+----> Chimur
+----> Gondpimpri
+----> Jivati
+----> Korpana
+----> Mul
+----> Nagbhid
+----> Pombhurna
+----> Rajura
+----> Saoli
+----> Sindewahi
+----> Warora
+
+--> DHULE
+----> Dhule
+----> Sakri
+----> Shirpur
+----> Sindkheda
+
+--> NANDURBAR
+----> Akkalkuwa
+----> Akrani
+----> NANDURBAR
+----> Navapur
+----> Shahada
+----> Talode
+
+--> GADCHIROLI
+----> Aheri
+----> Armori
+----> Bhamragad
+----> Chamorshi
+----> Desaiganj (Vadasa)
+----> Dhanora
+----> Etapalli
+----> Gadchiroli
+----> Korchi
+----> Kurkheda
+----> Mulchera
+----> Sironcha
+
+--> JALGAON
+----> Amalner
+----> Bhadgaon
+----> Bhusawal
+----> Bodwad
+----> Chalisgaon
+----> Chopda
+----> Dharangaon
+----> Erandol
+----> JALGAON
+----> Jamner
+----> Muktainagar
+----> Pachora
+----> Parola (Maharashtra)
+----> Raver
+----> Yawal
+
+--> JALNA
+----> Ambad
+----> Badnapur
+----> Bhokardan
+----> Ghansawangi
+----> Jafrabad
+----> JALNA
+----> Mantha
+----> Partur
+
+--> KOLHAPUR
+----> Ajra
+----> Bhudargad
+----> Chandgad
+----> Gadhinglaj
+----> Gaganbawada
+----> Hatkanangale
+----> Kagal
+----> Karveer
+----> Panhala
+----> Radhanagari
+----> Shahuwadi
+----> Shirol
+
+--> LATUR
+----> Ahmadpur
+----> Ausa
+----> Chakur
+----> Deoni
+----> Jalkot
+----> Latur
+----> Nilanga
+----> Renapur
+----> Shirur Anantpal
+----> Udgir
+
+--> Mumbai-Zone1
+----> BHULESHWAR
+----> COLABA
+----> DECCANROAD
+----> DONGRI
+----> FORT
+----> GIRGAON
+----> GOGRI MAHAL
+----> Kalbadevi Road
+----> KAMATHIPURA
+----> KHADE MARG
+----> MALBARHILL
+----> MARINE LINE
+----> NARIMAN POINT
+----> PEDDAR ROAD
+----> Princess Street
+----> THAKURDWAR JUNCTION
+----> VITHALBHAI PATEL ROAD
+
+--> Mumbai-Zone2
+----> ANTOP HILL
+----> BHYCULLA
+----> CURREY ROAD
+----> DADAR WEST
+----> DATTARAMLAD MARG
+----> DHARAVI
+----> ELPHINSTONE ROAD
+----> GHODAPDEO
+----> GRANTROAD
+----> JACOBCIRCLE/CHINCPOKLI
+----> LOWER PAREL
+----> MAHIM
+----> MATUNGA
+----> MUMBAI CENTRAL
+----> NAIGAON CROSS LANE
+----> PRABHADEVI
+----> TARDEO
+----> WADALA
+----> WORLI
+
+--> Mumbai-Zone3
+----> CHEMBUR
+----> GHATKOPAR
+----> GOVANDI
+----> KURLA
+----> MANKHURD
+----> SION
+----> VIDHYAVIHAR
+
+--> Mumbai-Zone4
+----> BANDRA EAST
+----> BANDRA WEST
+----> BHANDHUP
+----> Kanjurmarg
+----> KHAR EAST
+----> KHAR WEST
+----> MULUND
+----> POWAI
+----> Sakinaka
+----> VIKHROLI
+
+--> Mumbai-Zone5
+----> ANDHERI EAST
+----> ANDHERI WEST
+----> JUHU ROAD
+----> KALINA
+----> SANTACRUZ -Z6
+----> SANTACRUZ-Z4
+----> VILE PARLE EAST
+----> VILE PARLE WEST
+
+--> Mumbai-Zone6
+----> GOREGAON EAST
+----> GOREGAON WEST
+----> JOGESHWARI EAST
+----> JOGESHWARI WEST
+----> MALAD EAST
+----> MALAD WEST
+
+--> Mumbai-Zone7
+----> BORIVALI EAST
+----> BORIVALI WEST
+----> DAHISAR EAST
+----> DAHISAR WEST
+----> KANDIVALI EAST
+----> KANDIVALI WEST
+
+--> NAGPUR
+----> Bhiwapur
+----> Hingna
+----> Kalameshwar
+----> Kamptee
+----> Katol
+----> Kuhi
+----> Mouda
+----> Nagpur Rural
+----> Nagpur Urban
+----> Narkhed
+----> Parseoni
+----> Ramtek
+----> Savner
+----> Umred
+
+--> NANDED
+----> Ardhapur
+----> Bhokar
+----> Biloli
+----> Deglur
+----> Dharmabad
+----> Hadgaon
+----> Himayatnagar
+----> Kandhar
+----> Kinwat
+----> Loha
+----> Mahur
+----> Mudkhed
+----> Mukhed
+----> Naigaon (Khairgaon)
+----> Nanded
+----> Nandurbar
+----> Umri
+
+--> Nashik Z-1 District
+----> Mahanagar Palika 1 to 61
+----> Surgana
+----> Taluka in Nashik Z-1
+
+--> Nashik Z-2 District
+----> Chandwad
+----> Deola
+----> Dindori
+----> Igatpuri
+----> Kalwan
+----> Malegaon
+----> Nandgaon
+----> Niphad
+----> Peth
+----> Satana
+----> Sinnar
+----> Taluka in Nashik Z-2
+----> Trimbakeshwar
+----> Yeola
+
+--> Hingoli
+----> Aundha Nagnath
+----> Basmath
+----> Hingoli
+----> Kalamnuri
+----> Sengaon
+
+--> PARBHANI
+----> Gangakhed
+----> Jintur
+----> Manwath
+----> Paalam
+----> Parbhani
+----> Pathri
+----> Purna
+----> Sailu
+----> Sonpeth
+
+--> Pune-Zone1
+----> araneshwar
+----> bhawani peth
+----> budhwar peth
+----> dagdu sheth ganpati chk
+----> dattawadi
+----> dhankawadi
+----> ganesh peth
+----> ghorpade peth
+----> guruwar peth
+----> kasbapeth
+----> lakshmi nagar
+----> lakshmi rd
+----> left hand side of solapur road from swarget
+----> lohegaon
+----> magarpatta area
+----> maharshi nagar
+----> mangalwar peth
+----> market yard
+----> mukund nagar
+----> mundhawa
+----> nana peth
+----> narayan peth
+----> navi peth
+----> parvati
+----> phule nagar
+----> PZ1
+----> rasta peth
+----> sadashiv peth
+----> sahkar nagar
+----> sangamwadi
+----> shaniwar peth
+----> shivaji market
+----> shivaji rd
+----> shukrawar peth
+----> somwar peth
+----> swarget to alkatalkies via tilak rd
+----> vadgaonsheri
+----> vishrant wadi
+----> yerawada
+
+--> Pune-Zone2
+----> aundh
+----> Balajinagar
+----> baner
+----> bavdhan
+----> bibwewadi
+----> bopodi
+----> cantonment area
+----> deccan gymkhana
+----> hadapsar
+----> handewadi
+----> hingne
+----> karve rd
+----> katraj
+----> khadki
+----> khadki bazar
+----> kondwa
+----> kothrud
+----> mohmmedwadi
+----> mutha & mula
+----> pashan
+----> right hand side of solapur rd via swarget
+----> senapati bapat rd
+----> sindh colony
+----> sinhagad rd via nda
+----> sus
+----> uttam nagar
+----> vadgaon budruk
+----> vadgaondhayri
+----> vidyapith rd
+----> wanawadi
+----> warje
+----> zone2
+
+--> Pune-Zone3
+----> akurdi
+----> bhilare wadi
+----> bhosari
+----> bopkhel
+----> chaoli phata
+----> chikli
+----> chinchwad
+----> dapodi
+----> dehu rd
+----> dighi
+----> dudulgaon
+----> gogal wadi
+----> haveli-1
+----> haveli-2
+----> haveli-4
+----> havlei-3
+----> kasarwadi
+----> moshi
+----> nare
+----> nigadi
+----> phugewadi
+----> phursungi
+----> pimpale nilakh
+----> pimpale saudagar
+----> pimpaple gurav
+----> pimpri
+----> rahatani
+----> sangvi
+----> talawade charoli gaon
+----> Thergaon
+----> uruli devachi
+----> wadki
+----> wagholi
+----> wakad
+----> zone3
+
+--> Pune-Zone4
+----> ambegaon
+----> Baramati
+----> Bhor
+----> bhugaon
+----> Daund
+----> hinjwadi
+----> Indapur
+----> Junnar
+----> Khed
+----> lavale
+----> Maval
+----> Mulshi
+----> Purandhar
+----> santosh nagar
+----> Shirur
+----> Velhe
+----> zone4
+
+--> RAIGAD
+----> Alibag
+----> Karjat
+----> Khalapur
+----> Mahad
+----> Mangaon
+----> Mhasla
+----> Murud
+----> Panvel
+----> Pen
+----> Poladpur
+----> Roha
+----> Shrivardhan
+----> Sudhagad
+----> Tala
+----> Uran
+
+--> RATNAGIRI
+----> Chiplun
+----> Dapoli
+----> Guhagar
+----> Khed
+----> Lanja
+----> Mandangad
+----> Rajapur
+----> Ratnagiri
+----> Sangameshwar
+
+--> SANGLI
+----> Atpadi
+----> Jat
+----> Kadegaon
+----> Kavathe-Mahankal
+----> Khanapur Vita
+----> Miraj
+----> Palus
+----> Shirala
+----> Tasgaon
+----> Walwa - Islampur
+
+--> SATARA
+----> Jaoli
+----> Karad
+----> Khandala
+----> Khatav
+----> Koregaon
+----> Maan
+----> Mahabaleshwar
+----> Patan
+----> Phaltan
+----> Satara
+----> Wai
+
+--> SINDHUDURG
+----> Devgad
+----> Dodamarg
+----> Kankavli
+----> Kudal
+----> Malwan
+----> Sawantwadi
+----> Vaibhavwadi
+----> Vengurla
+
+--> SOLAPUR
+----> Akkalkot
+----> Barshi
+----> Karmala
+----> Madha
+----> Malshiras
+----> Mangalvedhe
+----> Mohol
+----> Pandharpur
+----> Sangole
+----> Solapur City
+----> Solapur North
+----> Solapur South
+
+--> Thane-Zone1
+----> THN1
+----> THN2
+----> THN3
+----> ZONE1
+
+--> Thane-Zone2
+----> Bhayander (East)
+----> Bhayander (West)
+----> Kashi Mira
+----> MIRA BHAYANDAR CORPORATION
+----> Mira Road
+----> Naigaon
+----> Vasai (East)
+----> ZONE6
+
+--> Thane-Zone3
+----> Nalasopara (E)
+----> Nalasopara (W)
+----> Navghar, Vasai (E)
+----> Vasai
+----> Vasai (West)
+----> Virar (E)
+----> Virar (W)
+----> ZONE7
+
+--> Thane-Zone4
+----> Dahanu
+----> Jawhar
+----> MIDC Tarapur bhoisar
+----> Mokhada
+----> Palghar
+----> Shahapur
+----> Talasari
+----> Wada
+
+--> Thane Z5
+----> Bhiwandi - 13 (Bhiwandi Corporation)
+----> Bhiwandi - 14
+----> Bhiwandi - 15
+----> Bhiwandi - 16
+
+--> Thane-Zone6
+----> Ambarnath City
+----> Ambernath Taluka
+----> Badlapur City
+----> Dombivali City
+----> Kalyan
+----> Murbad
+----> Shahad
+----> Thakurli City
+----> ULHASNAGAR CORPORATION
+----> Ulhasnagar(Except ambernath city)
+
+--> Thane-Zone7
+----> AIROLI
+----> KOPARKHAIRANE
+----> *** Dont Use, Now
+----> *** Dont Use, Now
+----> CBD BELAPUR
+----> DHIGHA
+----> GHANSOLI
+----> JUINAGAR
+----> MAHAPE
+----> NERUL
+----> PAWVANE
+----> RABALE
+----> SANPADA
+----> TURBHE
+----> VASHI
+
+--> USMANABAD
+----> Bhum
+----> Kalamb
+----> Lohara
+----> Osmanabad
+----> Paranda
+----> Tuljapur
+----> Umarga
+----> Washi
+
+--> WARDHA
+----> Arvi
+----> Ashti
+----> Deoli
+----> Hinganghat
+----> Karanja
+----> Samudrapur
+----> Seloo
+----> Wardha
+
+--> YAVATMAL
+----> Arni
+----> Babhulgaon
+----> Darwha
+----> Digras
+----> Ghatanji
+----> Kalamb
+----> Kelapur
+----> Mahagaon
+----> Maregaon
+----> Ner
+----> Pusad
+----> Ralegaon
+----> Umarkhed
+----> Wani
+----> Yavatmal
+----> Zari Jamani
+
+
+Pondicherry
+
+--> Karaikal
+----> Karaikal
+----> Kottucherry
+----> Nedungadu
+----> Neravy
+----> Thirunallar
+----> TR Patnam
+
+--> Mahe
+----> Mahe(Rural)
+----> Mun-Mahe
+
+--> Puducherry
+----> Ariyamkuppam
+----> Bahour
+----> Mannadipet
+----> Mun-Oulgaret
+----> Mun-Puducherry
+----> Nettapakkam
+----> Sedarapet
+----> Villianur
+
+--> Yanam
+----> Mun-Yanam
+----> Yanam(Rural)
+
+
+Punjab
+
+--> Amritsar (1)
+----> Amritsar Zone-1
+
+--> Amritsar (2)
+----> Amritsar Zone-2
+
+--> Amritsar (3)
+----> Amritsar Zone-3
+
+--> Amritsar (4)
+----> Ajnala
+----> Baba Bakala
+
+--> Amritsar (5)
+----> Amritsar Zone-5
+
+--> Barnala
+----> Barnala
+----> Tapa
+
+--> Bathinda (1)
+----> BATHINDA (1)
+
+--> Bathinda (2)
+----> BATHINDA (2)
+
+--> Bathinda (3)
+----> MAUR
+----> RAMPURA PHUL
+----> TALWANDI SABO
+
+--> Faridkot
+----> Faridkot
+----> Jaito
+----> Kotkapura
+
+--> Fatehgarh Sahib
+----> Amloh
+----> Bassi Pathana
+----> Fatehgarh Sahib
+----> Khamanon
+
+--> Fazilka (1)
+----> Fazilka
+----> Jalalabad
+
+--> Fazilka (2)
+----> Abohar
+
+--> Ferozepur
+----> Ferozpur
+----> Guru Harsahai
+----> Zira
+
+--> Gurdaspur (1)
+----> Dera Baba Nanak
+----> Gurdaspur
+
+--> Gurdaspur (2)
+----> Batala
+
+--> Hoshiarpur (1)
+----> Dasua
+----> Garhshankar
+
+--> Hoshiarpur (2)
+----> Hoshiarpur
+----> Mukerian
+
+--> Jalandhar (1)
+----> Jalandhar zone-1
+
+--> Jalandhar (2)
+----> Jalandhar zone-2
+
+--> Jalandhar (3)
+----> Jalandhar zone-3
+
+--> Jalandhar (4)
+----> Nakodar
+----> Phillaur
+----> Shahkot
+
+--> Kapurthala
+----> Bhulath
+----> Kapurthala
+----> Phagwara
+----> Sultanpur Lodhi
+
+--> Ludhiana (1)
+----> Ludhiana (1)
+
+--> Ludhiana (2)
+----> Ludhiana (2)
+
+--> Ludhiana (3)
+----> Ludhiana (3)
+
+--> Ludhiana (4)
+----> Ludhiana (4)
+
+--> Ludhiana (5)
+----> Khanna
+----> Payal
+----> Samrala
+
+--> Ludhiana (6)
+----> Jagraon (6)
+----> Raikot
+
+--> Mansa
+----> Budhlada
+----> Mansa
+----> Sardulgarh
+
+--> Moga (1)
+----> Moga (1)
+
+--> Moga (2)
+----> Bagha Purana
+----> Dharamkot
+----> Moga (2)
+----> Nihal Singh Wala
+
+--> Mukatasar (1)
+----> Sri Muktsar Sahib
+
+--> Mukatasar (2)
+----> Gidderbaha
+----> Malout
+
+--> Patiala (1)
+----> Kotwali
+----> Lahori Gate
+----> P.S Civil lines
+----> Patiala (1)
+
+--> Patiala (2)
+----> Patiala Subdivision (Except PT1)
+----> Rajpura Subdivision
+
+--> Patiala (3)
+----> NABHA
+----> PATRAN
+----> SAMANA
+
+--> Pathankot
+----> Dhar Kalan
+----> Pathankot
+
+--> Ropar
+----> Anandpur Sahib
+----> Chamkaur Sahib
+----> Nangal
+----> Ropar
+
+--> SAS Nagar (1)
+----> AJITGARH
+
+--> SAS Nagar (2)
+----> DERA BASSI
+
+--> SAS Nagar (3)
+----> KHARAR
+
+--> SBS Nagar
+----> Balachaur
+----> Banga
+----> SBS Nagar
+
+--> Sangrur (1)
+----> DHURI
+----> SANGRUR
+
+--> Sangrur (2)
+----> MALERKOTLA
+
+--> Sangrur (3)
+----> LEHRA
+----> MOONAK
+----> SUNAM
+
+--> Tarn Taran
+----> Khadur Sahib
+----> Patti
+----> Tarn Taran
+
+
+Rajasthan
+
+--> AJMER
+----> AJMER
+----> BEAWAR
+----> BHINAI
+----> KEKADI
+----> KISHANGARH
+----> MASUDA
+----> NASIRABAD
+----> PISANGAN
+----> SARWAR
+----> TATAGARH (Exrta)
+
+--> ALWAR
+----> ALWAR
+----> BAHROR
+----> BANSUR
+----> Bhiwani
+----> KHATHUMAR
+----> KISHANGARHWAS
+----> KOTKASIM
+----> LAXMANGARH
+----> MUNDAWAR
+----> NEEMRANA
+----> RAJGARH
+----> RAMGARH
+----> THANAGAJI
+----> TIZARA
+
+--> BARMER
+----> BAITU
+----> BARMER
+----> CHOHTAN
+----> DHORIMANA
+----> GADRA ROAD
+----> GIDA
+----> GUDAMALANI
+----> JASOL
+----> PACHPADRA
+----> RAMSAR
+----> SAMDARI
+----> SERWA
+----> SHEO
+----> SINDHARI
+----> SIWANA
+
+--> BANSWARA
+----> ANANDPURI
+----> BAGIDOORA
+----> BANSWARA
+----> CHOTISARVAN
+----> GADI
+----> GANGADTALAI
+----> GANODA
+----> GHATOL
+----> KUSHALGARH
+----> SAJJANGARH
+
+--> BARAN
+----> ANTA
+----> ATARU
+----> BARAN
+----> CHHABARA
+----> CHHIPABAHOD
+----> KISHANGANJ
+----> MANGROL
+----> SHAHBAD
+
+--> BHARATPUR
+----> BAIR
+----> BAYANA
+----> BHARATPUR
+----> DEEG
+----> KAMAN
+----> KUMHER
+----> NADBAI
+----> NAGAR
+----> PAHARI
+----> RUPWAS
+
+--> BHILWARA
+----> ASIND
+----> BADNOR
+----> BANERA
+----> BHILWARA
+----> BIJOLIYA
+----> HAMIRGARH
+----> HURDA
+----> JAHAZPUR
+----> KAREDA
+----> KOTRI
+----> MANDAL
+----> MANDALGARH
+----> PHULIYAKALAN
+----> RAIPUR
+----> SAHADA
+----> SHAHPURA
+
+--> BIKANER
+----> BIKANER
+----> CHHATAR GARH
+----> DUNGARPUR
+----> KHAJUWALA
+----> KOLAYAT
+----> LUNKARANSAR
+----> NAUKHA
+----> PUGAL
+
+--> BUNDI
+----> BUNDI
+----> HINDOLI
+----> INDRAGARH
+----> KESHORAIPATAN
+----> NAINWA
+
+--> CHITTORGARH
+----> BADISADRI
+----> BEGU
+----> BHADESAR
+----> CHITTORGARH
+----> DUNGLA
+----> GANGRAR
+----> KAPASAN
+----> NIMBAHERA
+----> RASMI
+----> RAWATBHATA
+
+--> CHURU
+----> BIDASAR
+----> CHURU
+----> RAJGARH
+----> RATANGARH
+----> SARDARSHAHAR
+----> SUJANGARH
+----> TARANAGAR
+
+--> DAUSA
+----> BASWA
+----> DAUSA
+----> LALSOT
+----> LAVAN (Naib Tehsil)
+----> MAHWA
+----> SIKRAI
+
+--> DHOLPUR
+----> BARI
+----> BASEDI
+----> DHOLPUR
+----> RAJAKHEDA
+----> SAIPAU
+----> SARMATHURA (Extra)
+
+--> DUNGARPUR
+----> ASPUR
+----> DUNGARPUR
+----> SANGWARA
+----> SIMALWARA
+
+--> HANUMANGARH
+----> BHADARA
+----> HANUMANGARH
+----> NOHAR
+----> PILIBANGA
+----> RAWATSAR
+----> SANGRIA
+----> TIBBI
+
+--> JAIPUR 1
+----> JAIPUR
+----> JAMWA RAMGARH
+----> KISHANGARH RENWAL
+----> KOTKHAWDA
+----> KOTPUTALI
+
+--> JAIPUR 2
+----> MOZAMABAD
+----> PHAGI
+----> PHULERA
+----> SAMBHAR
+
+--> JAIPUR 3
+----> AMBER
+----> SANGANER
+----> SHAHPURA
+----> VIRATNAGAR
+
+--> JAIPUR 4
+----> BASSI
+----> CHAKASU
+----> CHOMU
+----> DUDU
+
+--> JALORE
+----> AHOR
+----> BAGORA
+----> BHINMAL
+----> JALORE
+----> RANIWARA
+----> SANCHOR
+----> SAYAL
+
+--> JHALAWAR
+----> AKLERA
+----> ASNAWAR
+----> GANGDHAR
+----> JHALARA PATAN
+----> KHANPURA
+----> MANOHARTHANA
+----> PANCHPADAD
+----> PIDAWA
+
+--> JHUNJHUNU
+----> BUHANA
+----> CHIRAWA
+----> JHUNJHUNU
+----> KHETARI
+----> NAVALGARH
+----> UDAIPURWATI
+
+--> JODHPUR
+----> BAAP
+----> BALESAR
+----> BAWRI
+----> BHOPALGARH
+----> BILARA
+----> JODHPUR
+----> LOHAWAT
+----> LUNI
+----> OSIYA
+----> PHALODI
+----> PIPARCITY
+----> SHERGARH
+----> TIWRI
+
+--> JAISALMER
+----> FATAHGARH
+----> JAISALMER
+----> POKARAN
+
+--> KARAULI
+----> HINDON
+----> KARAULI
+----> MANDRAYAL
+----> NADOTI
+----> SAPOTARA
+----> THODABHIM
+
+--> KOTA
+----> DIGOD
+----> LADPURA
+----> PEEPALDA
+----> RAMGANJ MANDI
+----> SANGOD
+
+--> NAGAUR
+----> DEEDWANA
+----> DEGANA
+----> JAYAL
+----> KHIVSAR
+----> KUCHAMAN (Extra)
+----> LADANU
+----> MAKARANA
+----> MERTA CITY
+----> NAGAUR
+----> NAWA
+----> PARBATSAR
+
+--> PALI
+----> BALI
+----> DESURI
+----> JAITARAN
+----> MARWAR JUNCTION
+----> PALI
+----> RAIPURA
+----> ROHAT
+----> SOJAT
+----> SUMERPUR
+
+--> PRATAPGARH
+----> ARNOD
+----> CHOTISADARI
+----> DHARIYAWAS
+----> PIPALKHUTH
+----> PRATAPGARH
+
+--> RAJSAMAND
+----> AMET
+----> BHIM
+----> DEVGARH
+----> GADBOR
+----> KHAMNOOR
+----> KUMBHALGARH
+----> NATHDWARA
+----> RAILMAGARA
+----> RAJSAMAND
+
+--> SAWAI MADHOPUR
+----> BAMANWAS
+----> BONLI
+----> CHOTH KA BARWADA
+----> GANGAPURCITY
+----> KHANDAR
+----> MALANA DUNGAR
+----> SAWAI MADHOPUR
+
+--> SIKAR
+----> FATAHPUR
+----> LAXMANGARH
+----> NEEM KA THANA
+----> RAMGARH
+----> SIKAR
+----> SRI MODHOPUR
+
+--> SIROHI
+----> ABUROAD
+----> PINDWARA
+----> REVDAR
+----> SHIVGANJ
+----> SIROHI
+
+--> SHRIGANGANAGAR
+----> ANUPGARH
+----> GANGANAGAR
+----> GHADSANA
+----> PADAMPUR
+----> RAISINGH NAGAR
+----> SADULSHAHAR
+----> SRI KARANPUR
+----> SRI VIJAYNAGAR
+----> SURATGARH
+
+--> TONK
+----> DEOLI
+----> MALPURA
+----> NEWAI
+----> PEEPLU
+----> TODARAISINGNH
+----> TONK
+----> UNIARA
+
+--> UDAIPUR
+----> BADGAON
+----> GIRWA
+----> GOGUNDA
+----> JHADOL
+----> KHERWARA
+----> KOTADA
+----> MAVALI
+----> RISHABHDEV
+----> SALUMBER
+----> SARADA
+----> UDAIPUR
+----> VALLABHAGARH
+
+
+Tamil Nadu
+
+--> AHMEDNAGAR
+----> Ahmednagar
+----> Akole
+----> Jamkhed
+----> Karjat
+----> Kopargaon
+----> Nevasa
+----> Parner
+----> Pathardi
+----> Rahata
+----> Rahuri
+----> Sangamner
+----> Shevgaon
+----> Shrigonda
+----> Shrirampur
+
+--> Akola
+----> Akola
+----> Akot
+----> Balapur
+----> Barshitakli
+----> Murtajapur
+----> Patur
+----> Telhara
+
+--> WASHIM
+----> Karanja
+----> Malegaon
+----> Mangrulpir
+----> Manora
+----> Risod
+----> WASHIM
+
+--> AMARAVATI
+----> Achalpur
+----> Amravati
+----> Anjangaon Surji
+----> Bhatukali
+----> Chandur
+----> Chandurbazar
+----> Chikhaldara
+----> Daryapur
+----> Dhamangaon
+----> Dharni, Amravati
+----> Morshi
+----> Nandgaon Khandeshwar
+----> Tiosa
+----> Warud
+
+--> AURANGABAD
+----> Aurangabad
+----> Aurangabad (Corporation ward A&D)
+----> Aurangabad (Corporation ward B&E)
+----> Aurangabad (Corporation ward C&F)
+----> Aurangabad Taluka (other than Corporation Area)
+----> Aurangabad-Z1 Talukas
+----> Aurangabad-Z2 Talukas
+
+--> AURANGABAD ZONE 2
+----> Aurangabad Zone 2
+----> Gangapur
+----> Kannad
+----> Khuldabad
+----> Paithan
+----> Phulambri
+----> Sillod
+----> Soegaon
+----> Vaijapur
+
+--> BEED
+----> Ambejogai
+----> Ashti
+----> Beed
+----> Dharur
+----> Georai
+----> Kaij
+----> Manjalgaon
+----> Parli
+----> Patoda
+----> Shirur Kasar
+----> Wadwani
+
+--> BHANDARA
+----> Bhandara
+----> Lakhandur
+----> Lakhni
+----> Mohadi
+----> Pauni
+----> Sakoli
+----> Tumsar
+
+--> Gondia
+----> Amgaon
+----> Arjuni Morgaon
+----> Deori
+----> Gondia
+----> Goregaon
+----> Sadak Arjuni
+----> Salekasa
+----> Tirora
+
+--> BULDANA
+----> BULDANA
+----> Chikhli
+----> Deulgaon Raja
+----> Jalgaon Jamod
+----> Khamgaon
+----> Lonar
+----> Malkapur
+----> Mehkar
+----> Motala
+----> Nandura
+----> Sangrampur
+----> Shegaon
+----> Sindkhed Raja
+
+--> CHANDRAPUR
+----> Ballarpur
+----> Bhadravati
+----> Brahmapuri
+----> Chandrapur
+----> Chimur
+----> Gondpimpri
+----> Jivati
+----> Korpana
+----> Mul
+----> Nagbhid
+----> Pombhurna
+----> Rajura
+----> Saoli
+----> Sindewahi
+----> Warora
+
+--> DHULE
+----> Dhule
+----> Sakri
+----> Shirpur
+----> Sindkheda
+
+--> NANDURBAR
+----> Akkalkuwa
+----> Akrani
+----> NANDURBAR
+----> Navapur
+----> Shahada
+----> Talode
+
+--> GADCHIROLI
+----> Aheri
+----> Armori
+----> Bhamragad
+----> Chamorshi
+----> Desaiganj (Vadasa)
+----> Dhanora
+----> Etapalli
+----> Gadchiroli
+----> Korchi
+----> Kurkheda
+----> Mulchera
+----> Sironcha
+
+--> JALGAON
+----> Amalner
+----> Bhadgaon
+----> Bhusawal
+----> Bodwad
+----> Chalisgaon
+----> Chopda
+----> Dharangaon
+----> Erandol
+----> JALGAON
+----> Jamner
+----> Muktainagar
+----> Pachora
+----> Parola (Maharashtra)
+----> Raver
+----> Yawal
+
+--> JALNA
+----> Ambad
+----> Badnapur
+----> Bhokardan
+----> Ghansawangi
+----> Jafrabad
+----> JALNA
+----> Mantha
+----> Partur
+
+--> KOLHAPUR
+----> Ajra
+----> Bhudargad
+----> Chandgad
+----> Gadhinglaj
+----> Gaganbawada
+----> Hatkanangale
+----> Kagal
+----> Karveer
+----> Panhala
+----> Radhanagari
+----> Shahuwadi
+----> Shirol
+
+--> LATUR
+----> Ahmadpur
+----> Ausa
+----> Chakur
+----> Deoni
+----> Jalkot
+----> Latur
+----> Nilanga
+----> Renapur
+----> Shirur Anantpal
+----> Udgir
+
+--> Mumbai-Zone1
+----> BHULESHWAR
+----> COLABA
+----> DECCANROAD
+----> DONGRI
+----> FORT
+----> GIRGAON
+----> GOGRI MAHAL
+----> Kalbadevi Road
+----> KAMATHIPURA
+----> KHADE MARG
+----> MALBARHILL
+----> MARINE LINE
+----> NARIMAN POINT
+----> PEDDAR ROAD
+----> Princess Street
+----> THAKURDWAR JUNCTION
+----> VITHALBHAI PATEL ROAD
+
+--> Mumbai-Zone2
+----> ANTOP HILL
+----> BHYCULLA
+----> CURREY ROAD
+----> DADAR WEST
+----> DATTARAMLAD MARG
+----> DHARAVI
+----> ELPHINSTONE ROAD
+----> GHODAPDEO
+----> GRANTROAD
+----> JACOBCIRCLE/CHINCPOKLI
+----> LOWER PAREL
+----> MAHIM
+----> MATUNGA
+----> MUMBAI CENTRAL
+----> NAIGAON CROSS LANE
+----> PRABHADEVI
+----> TARDEO
+----> WADALA
+----> WORLI
+
+--> Mumbai-Zone3
+----> CHEMBUR
+----> GHATKOPAR
+----> GOVANDI
+----> KURLA
+----> MANKHURD
+----> SION
+----> VIDHYAVIHAR
+
+--> Mumbai-Zone4
+----> BANDRA EAST
+----> BANDRA WEST
+----> BHANDHUP
+----> Kanjurmarg
+----> KHAR EAST
+----> KHAR WEST
+----> MULUND
+----> POWAI
+----> Sakinaka
+----> VIKHROLI
+
+--> Mumbai-Zone5
+----> ANDHERI EAST
+----> ANDHERI WEST
+----> JUHU ROAD
+----> KALINA
+----> SANTACRUZ -Z6
+----> SANTACRUZ-Z4
+----> VILE PARLE EAST
+----> VILE PARLE WEST
+
+--> Mumbai-Zone6
+----> GOREGAON EAST
+----> GOREGAON WEST
+----> JOGESHWARI EAST
+----> JOGESHWARI WEST
+----> MALAD EAST
+----> MALAD WEST
+
+--> Mumbai-Zone7
+----> BORIVALI EAST
+----> BORIVALI WEST
+----> DAHISAR EAST
+----> DAHISAR WEST
+----> KANDIVALI EAST
+----> KANDIVALI WEST
+
+--> NAGPUR
+----> Bhiwapur
+----> Hingna
+----> Kalameshwar
+----> Kamptee
+----> Katol
+----> Kuhi
+----> Mouda
+----> Nagpur Rural
+----> Nagpur Urban
+----> Narkhed
+----> Parseoni
+----> Ramtek
+----> Savner
+----> Umred
+
+--> NANDED
+----> Ardhapur
+----> Bhokar
+----> Biloli
+----> Deglur
+----> Dharmabad
+----> Hadgaon
+----> Himayatnagar
+----> Kandhar
+----> Kinwat
+----> Loha
+----> Mahur
+----> Mudkhed
+----> Mukhed
+----> Naigaon (Khairgaon)
+----> Nanded
+----> Nandurbar
+----> Umri
+
+--> Nashik Z-1 District
+----> Mahanagar Palika 1 to 61
+----> Surgana
+----> Taluka in Nashik Z-1
+
+--> Nashik Z-2 District
+----> Chandwad
+----> Deola
+----> Dindori
+----> Igatpuri
+----> Kalwan
+----> Malegaon
+----> Nandgaon
+----> Niphad
+----> Peth
+----> Satana
+----> Sinnar
+----> Taluka in Nashik Z-2
+----> Trimbakeshwar
+----> Yeola
+
+--> Hingoli
+----> Aundha Nagnath
+----> Basmath
+----> Hingoli
+----> Kalamnuri
+----> Sengaon
+
+--> PARBHANI
+----> Gangakhed
+----> Jintur
+----> Manwath
+----> Paalam
+----> Parbhani
+----> Pathri
+----> Purna
+----> Sailu
+----> Sonpeth
+
+--> Pune-Zone1
+----> araneshwar
+----> bhawani peth
+----> budhwar peth
+----> dagdu sheth ganpati chk
+----> dattawadi
+----> dhankawadi
+----> ganesh peth
+----> ghorpade peth
+----> guruwar peth
+----> kasbapeth
+----> lakshmi nagar
+----> lakshmi rd
+----> left hand side of solapur road from swarget
+----> lohegaon
+----> magarpatta area
+----> maharshi nagar
+----> mangalwar peth
+----> market yard
+----> mukund nagar
+----> mundhawa
+----> nana peth
+----> narayan peth
+----> navi peth
+----> parvati
+----> phule nagar
+----> PZ1
+----> rasta peth
+----> sadashiv peth
+----> sahkar nagar
+----> sangamwadi
+----> shaniwar peth
+----> shivaji market
+----> shivaji rd
+----> shukrawar peth
+----> somwar peth
+----> swarget to alkatalkies via tilak rd
+----> vadgaonsheri
+----> vishrant wadi
+----> yerawada
+
+--> Pune-Zone2
+----> aundh
+----> Balajinagar
+----> baner
+----> bavdhan
+----> bibwewadi
+----> bopodi
+----> cantonment area
+----> deccan gymkhana
+----> hadapsar
+----> handewadi
+----> hingne
+----> karve rd
+----> katraj
+----> khadki
+----> khadki bazar
+----> kondwa
+----> kothrud
+----> mohmmedwadi
+----> mutha & mula
+----> pashan
+----> right hand side of solapur rd via swarget
+----> senapati bapat rd
+----> sindh colony
+----> sinhagad rd via nda
+----> sus
+----> uttam nagar
+----> vadgaon budruk
+----> vadgaondhayri
+----> vidyapith rd
+----> wanawadi
+----> warje
+----> zone2
+
+--> Pune-Zone3
+----> akurdi
+----> bhilare wadi
+----> bhosari
+----> bopkhel
+----> chaoli phata
+----> chikli
+----> chinchwad
+----> dapodi
+----> dehu rd
+----> dighi
+----> dudulgaon
+----> gogal wadi
+----> haveli-1
+----> haveli-2
+----> haveli-4
+----> havlei-3
+----> kasarwadi
+----> moshi
+----> nare
+----> nigadi
+----> phugewadi
+----> phursungi
+----> pimpale nilakh
+----> pimpale saudagar
+----> pimpaple gurav
+----> pimpri
+----> rahatani
+----> sangvi
+----> talawade charoli gaon
+----> Thergaon
+----> uruli devachi
+----> wadki
+----> wagholi
+----> wakad
+----> zone3
+
+--> Pune-Zone4
+----> ambegaon
+----> Baramati
+----> Bhor
+----> bhugaon
+----> Daund
+----> hinjwadi
+----> Indapur
+----> Junnar
+----> Khed
+----> lavale
+----> Maval
+----> Mulshi
+----> Purandhar
+----> santosh nagar
+----> Shirur
+----> Velhe
+----> zone4
+
+--> RAIGAD
+----> Alibag
+----> Karjat
+----> Khalapur
+----> Mahad
+----> Mangaon
+----> Mhasla
+----> Murud
+----> Panvel
+----> Pen
+----> Poladpur
+----> Roha
+----> Shrivardhan
+----> Sudhagad
+----> Tala
+----> Uran
+
+--> RATNAGIRI
+----> Chiplun
+----> Dapoli
+----> Guhagar
+----> Khed
+----> Lanja
+----> Mandangad
+----> Rajapur
+----> Ratnagiri
+----> Sangameshwar
+
+--> SANGLI
+----> Atpadi
+----> Jat
+----> Kadegaon
+----> Kavathe-Mahankal
+----> Khanapur Vita
+----> Miraj
+----> Palus
+----> Shirala
+----> Tasgaon
+----> Walwa - Islampur
+
+--> SATARA
+----> Jaoli
+----> Karad
+----> Khandala
+----> Khatav
+----> Koregaon
+----> Maan
+----> Mahabaleshwar
+----> Patan
+----> Phaltan
+----> Satara
+----> Wai
+
+--> SINDHUDURG
+----> Devgad
+----> Dodamarg
+----> Kankavli
+----> Kudal
+----> Malwan
+----> Sawantwadi
+----> Vaibhavwadi
+----> Vengurla
+
+--> SOLAPUR
+----> Akkalkot
+----> Barshi
+----> Karmala
+----> Madha
+----> Malshiras
+----> Mangalvedhe
+----> Mohol
+----> Pandharpur
+----> Sangole
+----> Solapur City
+----> Solapur North
+----> Solapur South
+
+--> Thane-Zone1
+----> THN1
+----> THN2
+----> THN3
+----> ZONE1
+
+--> Thane-Zone2
+----> Bhayander (East)
+----> Bhayander (West)
+----> Kashi Mira
+----> MIRA BHAYANDAR CORPORATION
+----> Mira Road
+----> Naigaon
+----> Vasai (East)
+----> ZONE6
+
+--> Thane-Zone3
+----> Nalasopara (E)
+----> Nalasopara (W)
+----> Navghar, Vasai (E)
+----> Vasai
+----> Vasai (West)
+----> Virar (E)
+----> Virar (W)
+----> ZONE7
+
+--> Thane-Zone4
+----> Dahanu
+----> Jawhar
+----> MIDC Tarapur bhoisar
+----> Mokhada
+----> Palghar
+----> Shahapur
+----> Talasari
+----> Wada
+
+--> Thane Z5
+----> Bhiwandi - 13 (Bhiwandi Corporation)
+----> Bhiwandi - 14
+----> Bhiwandi - 15
+----> Bhiwandi - 16
+
+--> Thane-Zone6
+----> Ambarnath City
+----> Ambernath Taluka
+----> Badlapur City
+----> Dombivali City
+----> Kalyan
+----> Murbad
+----> Shahad
+----> Thakurli City
+----> ULHASNAGAR CORPORATION
+----> Ulhasnagar(Except ambernath city)
+
+--> Thane-Zone7
+----> AIROLI
+----> KOPARKHAIRANE
+----> *** Dont Use, Now
+----> *** Dont Use, Now
+----> CBD BELAPUR
+----> DHIGHA
+----> GHANSOLI
+----> JUINAGAR
+----> MAHAPE
+----> NERUL
+----> PAWVANE
+----> RABALE
+----> SANPADA
+----> TURBHE
+----> VASHI
+
+--> USMANABAD
+----> Bhum
+----> Kalamb
+----> Lohara
+----> Osmanabad
+----> Paranda
+----> Tuljapur
+----> Umarga
+----> Washi
+
+--> WARDHA
+----> Arvi
+----> Ashti
+----> Deoli
+----> Hinganghat
+----> Karanja
+----> Samudrapur
+----> Seloo
+----> Wardha
+
+--> YAVATMAL
+----> Arni
+----> Babhulgaon
+----> Darwha
+----> Digras
+----> Ghatanji
+----> Kalamb
+----> Kelapur
+----> Mahagaon
+----> Maregaon
+----> Ner
+----> Pusad
+----> Ralegaon
+----> Umarkhed
+----> Wani
+----> Yavatmal
+----> Zari Jamani
+
+
+West Bengal
+
+--> VIT
+
+--> Bankura
+----> Bankura
+----> Barikul
+----> Barjora
+----> Beliatore
+----> Bishnupur
+----> Chhatna
+----> Gangajalghati
+----> Hirabandh
+----> Indpur
+----> Indus
+----> Jaipur
+----> Khatra
+----> Kotulpur
+----> Mejia
+----> Onda
+----> Patrasayar
+----> Raipur
+----> Ranibandh
+----> Saltora
+----> Sarenga
+----> Simlipal
+----> Sonamukhi
+----> Taldangra
+
+--> Birbhum
+----> Bolpur
+----> Dubrajpur
+----> Ilambazar
+----> Kankartala
+----> Khoyrasole
+----> Labhpur
+----> Margram
+----> Mayureswar
+----> Mohammed Bazar
+----> Murarai
+----> Nalhati
+----> Nanoor
+----> Panrui
+----> Rajnagar
+----> Rampurhat
+----> Sadaipur
+----> Sainthia
+----> Suri
+
+--> Burdwan
+----> Andal
+----> Asansol North
+----> Asansol South
+----> Ausgram
+----> Barbani
+----> Bhatar
+----> Bubbud
+----> Burdwan PS
+----> Chittaranjan
+----> Coke Oven
+----> Dainhat
+----> Durgapur
+----> Faridpur
+----> Galsi
+----> Guskara
+----> Hirapur
+----> Jamalpur
+----> Jamuria
+----> Kanksa
+----> Katwa
+----> Ketugram
+----> Khandoghosh
+----> Kulti
+----> Madhabdihi
+----> Mangolkote
+----> Memari
+----> Monteswar
+----> New Town
+----> Pandeveswar
+----> Purbasthali
+----> Raina
+----> Raniganj
+----> Salanpur
+----> Sripur
+
+--> Coochbehar
+----> Boxirhat
+----> Dinhata
+----> Ghoksadanga
+----> Haldibari
+----> Kotwali
+----> Kuchlibari
+----> Mathabhanga
+----> Mekhliganj
+----> Sitai
+----> Sitalkuchi
+----> Tufanganj
+
+--> Darjeeling
+----> Bagdogra
+----> Gorubathan
+----> Jaltaksa
+----> Jorebanglow
+----> Kalimpong
+----> Kharibari
+----> Kotwali
+----> Kurseong
+----> Lodsama
+----> Matigara
+----> Mirik
+----> Naxalbari
+----> Phanisidewa
+----> Pradhan Nagar
+----> Rangliot
+----> Siliguri
+----> Sukhipokhri
+----> Tulbazar
+
+--> Dakshin Dinajpur
+----> Balurghat
+----> Bansihari
+----> Gangarampur
+----> Harirampur
+----> Hili
+----> Kumarganj
+----> Kushmandi
+----> Tapan
+
+--> Hooghly
+----> Arambaggh
+----> Balagarh
+----> Bhaddreswar
+----> Chandannagar
+----> Chanditala
+----> Chinsurah
+----> Dadpur
+----> Dankuni
+----> Dhaniakhali
+----> Goghat
+----> Gurap
+----> Haripal
+----> Jangipara
+----> Khanakhul
+----> Mogra
+----> Pandua
+----> Polaba
+----> Pursurah
+----> Rishra
+----> Serampore
+----> Singur
+----> Tarakeswar
+----> Uttarpara
+
+--> Howrah
+----> ** Pls do not Use
+----> Amta
+----> Bagnan
+----> Bally
+----> Bantra
+----> Bauria
+----> Belur
+----> Dasnagar
+----> Domjur
+----> Golabari
+----> Howrah PS
+----> Jagacha
+----> Jagatballavpur
+----> Joypur
+----> Liluah
+----> Malipanchghara
+----> Nischinda
+----> Panchla
+----> Sankrail
+----> Santragachi
+----> Shibpur
+----> Shyampur
+----> Udaynarayanpur
+----> Uluberia
+
+--> Jalpaiguri
+----> Alipurduar
+----> Banarhat
+----> Bhaktinagar
+----> Birpara
+----> Dhupguri
+----> Falakata
+----> Jaigaon
+----> Kalchini
+----> Kotwali
+----> Kumargram
+----> Madarihat
+----> Malbazar
+----> Maynaguri
+----> Mettli
+----> Nagrakata
+----> Rajganj
+----> Samuktola
+
+--> Kolkata
+----> 700001 Kolkata GPO
+----> 700002 Cossipore
+----> 700003 Bagbazar
+----> 700004 Shyambazar
+----> 700005 Hatkhola
+----> 700006 Beadon Street
+----> 700007 Burrabazar
+----> 700008 Barisha
+----> 700009 Raja Rammohon Roy Sarani
+----> 700010 Beliaghata
+----> 700011 Narkeldanga
+----> 700012 Bowbazar
+----> 700013 Dharmatala
+----> 700014 Entally
+----> 700015 Tangra
+----> 700016 Park Street
+----> 700017 Circus Avenue
+----> 700018 Burtolla
+----> 700019 Ballygunge
+----> 700020 Lala Lajpat Rai Sarani
+----> 700021 Fort William
+----> 700022 Hestings
+----> 700023 Khidirpur
+----> 700024 Garde Reach
+----> 700025 Bhowanipur
+----> 700026 Kalighat
+----> 700027 Alipore
+----> 700028 Dum Dum
+----> 700029 Sarat Bose Road
+----> 700030 Ghughudanga
+----> 700031 Dhakuria
+----> 700032 Jadavpur University
+----> 700033 Tollygunge
+----> 700034 Behala
+----> 700035 Alambazar
+----> 700036 Baranagar
+----> 700037 Belgachia
+----> 700038 Sahapur
+----> 700039 Tiljala
+----> 700040 Regent Park
+----> 700041 Paschim Putiary
+----> 700042 Kasba
+----> 700043 S.E. Railway
+----> 700044 Badartala
+----> 700045 Lake Gardens
+----> 700046 Govinda Khatick Road
+----> 700047 Naktala
+----> 700048 Sreebhumi
+----> 700049 Nimta
+----> 700050 Sinthee
+----> 700051 Birati
+----> 700052 Calcutta Airport
+----> 700053 New Alipore
+----> 700054 Kankurgachi
+----> 700055 Bangur Avenue
+----> 700056 Belghoria
+----> 700057 Ariadaha
+----> 700058 Kamarhati
+----> 700059 Desbandhu Nagar
+----> 700060 Parnasree Palli
+----> 700061 Sarsuna
+----> 700062 W. B. Governor's Camp
+----> 700063 Thakurpukur
+----> 700064 Salt Lake
+----> 700065 Rabindranagar
+----> 700066 Bidhannagar
+----> 700067 Ultadanga
+----> 700068 Jodhpur Park
+----> 700069 Esplanade
+----> 700070 Bansdroni
+----> 700071 Middletone Row
+----> 700072 Princep Street
+----> 700073 Chittaranjan Avenue
+----> 700074 Motijhil
+----> 700075 Santoshpur
+----> 700076 Dakshineswar
+----> 700077 Bediapara
+----> 700078 Haltu
+----> 700079 Italgacha
+----> 700080 Mall Road
+----> 700081 Rajbari Colony
+----> 700082 Haridevpur
+----> 700083 Nandan Nagar
+----> 700084 Garia
+----> 700085 K.G.Bose Sarani
+----> 700086 Baghajatin
+----> 700087 New Market
+----> 700088 Brace Bridge
+----> 700089 Lake Town
+----> 700090 Nwapara
+----> 700091 Sech Bhavan
+----> 700092 Regent Estate
+----> 700093 Purba Putiary
+----> 700094 Pancha Sayar
+----> 700095 Golf Green
+----> 700096 Brahampur
+----> 700097 Purbachal
+----> 700098 Bidhan Nagar SAI Complex
+----> 700099 Kalikapur
+----> 700100 VIP Nagar
+----> 700101 Prafulla Kanan
+----> 700102 Krishnapur
+----> 700103 Narendrapur
+----> 700104 Joka
+----> 700105 Dhapa
+----> 700106 Bidhan Nagar I.B. Market
+----> 700107 East Kolkata Township
+----> 700108 ISI
+
+--> Malda
+----> Baishnabnagar
+----> Bamangola
+----> Chanchol
+----> English Bazar
+----> Gazole
+----> Habibpur
+----> Harishchandrapur
+----> Kaliachak
+----> Manikchak
+----> Mothabari
+----> Old Malda
+----> Ratua
+
+--> Murshidabad
+----> Barwan
+----> Beldanga
+----> Berhampore
+----> Bhagabangola
+----> Bharatpur
+----> Daulatabad
+----> Domkal
+----> Farakka
+----> Hariharpara
+----> Islampur
+----> Jalangi
+----> Jiaganj
+----> Kandi
+----> Khargram
+----> Lalgola
+----> Murshidabad
+----> Nabagram
+----> Nawda
+----> Raghunathganj
+----> Raninagar
+----> Ranitala
+----> Reginagar
+----> Sagardighi
+----> Salar
+----> Samsergunj
+----> Suti
+
+--> North 24-Parganas
+----> Airport
+----> Amdanga
+----> Ashoknagar
+----> Baduria
+----> Bagdah
+----> Barasat
+----> Basirhat
+----> Belghoria
+----> Bijpur
+----> Bongaon
+----> Deganga
+----> Dum Dum
+----> Gaighata
+----> Ghola
+----> Gobordanga
+----> Gopalnagar
+----> Habra
+----> Halisahar
+----> Haroa
+----> Hasnabad
+----> Helencha
+----> Hingalganj
+----> Jagaddal
+----> Khardha
+----> Madhyamgram
+----> Minakhan
+----> Naihati
+----> Nimta
+----> Noapara
+----> Rajarhat
+----> Sandashkhali
+----> Swarupnagar
+----> Taki
+----> Titagarh
+
+--> Nadia
+----> Chakdah
+----> Chapra
+----> Dhantola
+----> Dhubulia
+----> Gangapur
+----> Hanshkhali
+----> Haringhata
+----> Hogalberia
+----> Kaliganj
+----> Kalyani
+----> Karimpur
+----> Krishnaganj
+----> Krishnanagar Kotwali
+----> Murutia
+----> Nabadwip
+----> Nakashipara
+----> Ranaghat
+----> Shantipur
+----> Taherpur
+----> Tehatta
+----> Thanapara
+
+--> Paschim Midnapore
+----> Belda
+----> Beliabera
+----> Belpahari
+----> Binpur
+----> Chandrakona
+----> Daspur
+----> Datan
+----> Debra
+----> Garbeta
+----> Ghatal
+----> Gopiballavpur
+----> Jamboni
+----> Jhargram
+----> Keshiary
+----> Keshpur
+----> Kharagpur
+----> Khirpai
+----> Kotwali
+----> Lalgarh
+----> Mohanpur
+----> Narayangarh
+----> Nayagram
+----> Paschim Midnapore
+----> Pingla
+----> Sabang
+----> Salbani
+----> Sankrail
+
+--> Purba Midnapur
+----> Bhabanipur
+----> Bhagabanpur
+----> Bhupatinagar
+----> Chandipur
+----> Digha
+----> Durgachak
+----> Egra
+----> Haldia
+----> Khejuri
+----> Kolaghat
+----> Kolaghat Tharmal Power Plant
+----> Kontai
+----> Mahishadal
+----> Marisda
+----> Moyna
+----> Nandakumar
+----> Nandigram
+----> Panskunra
+----> Patashpur
+----> Ramnagar
+----> Sutahata
+----> Tamluk
+
+--> Purulia
+----> Arsha
+----> Baghmundi
+----> Balarampur
+----> Bandwan
+----> Barabazar
+----> Boro
+----> Hura
+----> Jhalda
+----> Joypur
+----> Kashipur
+----> Katshila
+----> Kenda
+----> Manbazar
+----> Neturia
+----> Para
+----> Puncha
+----> Purulia Town
+----> Raghunathpur
+----> Santaldih
+----> Santuri
+
+--> South 24-Parganas
+----> Baruipur
+----> Basanti
+----> Bhangar
+----> Bishnupur
+----> Budge Budge
+----> Canning
+----> Dholahat
+----> Diamond Harbour
+----> Falta
+----> Gosaba
+----> Joynagar
+----> Kashipur
+----> Kulpi
+----> Kultali
+----> Kwakdwip
+----> Magrahat
+----> Maheshtala
+----> Mandirbazar
+----> Mathurapur
+----> Nadial
+----> Namkhana
+----> Nodakhali
+----> Patharpratima
+----> Raidighi
+----> Ramnagar
+----> Sagar
+----> Sonarpur
+----> Thakurpukur
+----> Usthi
+
+--> Uttar Dinajpur
+----> Chakulia
+----> Chopra
+----> Goal Pokhar
+----> Hemtabad
+----> Islampur
+----> Itahar
+----> Kaliaganj
+----> Karandighi
+----> Raiganj
+
+

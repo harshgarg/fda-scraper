@@ -10,6 +10,7 @@ import os.path
 import csv
 import tablib
 import geocoder
+import psycopg2
 
 def get_geocode(firm_name, taluka):
   firm_name = firm_name.split("-")
@@ -25,6 +26,9 @@ url = "http://xlnindia.gov.in/frm_G_Cold_S_Query.aspx"
 driver = webdriver.Chrome("/usr/lib/chromium-browser/chromedriver")
 driver.get(url)
 
+conn = psycopg2.connect(database="internstest", user="root", password="retailwhizz123", host="mdm-postgres-test.cw8vifcngblm.ap-south-1.rds.amazonaws.com", port="5432")
+cur = conn.cursor()
+firm_id = 1
 #all the required xpaths of the elements
 state_xpath = '//*[@id="ddlState"]'
 district_xpath = '//*[@id="ddldistrict"]'
@@ -160,9 +164,29 @@ for district in option_values_district:
                 #print "duplicate " + firm_name_hash
                 continue
               else:
+                firm_name = row.find_element_by_xpath(".//td[1]").text
+                firm_address = row.find_element_by_xpath(".//td[2]").text
+                reg_pharma_comp_person = row.find_element_by_xpath(".//td[4]").text
+                firm_license = row.find_element_by_xpath(".//td[3]").text
+
+                sql = ("""INSERT INTO mdm_firm_details (firm_name,pharmacist,address,state,city,taluka,geocode) VALUES (%s,%s,%s,%s,%s,%s,%s)""",(firm_name,reg_pharma_comp_person,firm_address,state,district,taluka,geocode))
+                cur.execute(*sql)
+                conn.commit()
+
+                for lic in tooltip:
+                  if "License:" not in lic:
+                    lic_details = lic.split(' ')
+                    lic_details_x = lic_details[2].split(')')
+
+                    sql = ("""INSERT INTO mdm_firm_license (firm_id,license_type,license_number,license_validity) VALUES (%s,%s,%s,to_date(%s,'DD/MM/YYYY'))""",(firm_id,firm_license,lic_details[0],lic_details_x[0]))
+                    cur.execute(*sql)
+                    conn.commit()
+
+
                 record_map[hash_val] = '1'
                 #print firm_name_hash
                 records.append(record)
+                firm_id = firm_id + 1
 
       firm_name = driver.find_element_by_xpath(firm_name_xpath)
       firm_name.clear()
@@ -225,9 +249,28 @@ for district in option_values_district:
                 #print "duplicate " + firm_name_hash
                 continue
               else:
+                firm_name = row.find_element_by_xpath(".//td[1]").text
+                firm_address = row.find_element_by_xpath(".//td[2]").text
+                reg_pharma_comp_person = row.find_element_by_xpath(".//td[4]").text
+                firm_license = row.find_element_by_xpath(".//td[3]").text
+
+                sql = ("""INSERT INTO mdm_firm_details (firm_name,pharmacist,address,state,city,taluka,geocode) VALUES (%s,%s,%s,%s,%s,%s,%s)""",(firm_name,reg_pharma_comp_person,firm_address,state,district,taluka,geocode))
+                cur.execute(*sql)
+                conn.commit()
+
+
+                for lic in tooltip:
+                  if "License:" not in lic:
+                    lic_details = lic.split(' ')
+                    lic_details_x = lic_details[2].split(')')
+
+                    sql = ("""INSERT INTO mdm_firm_license (firm_id,license_type,license_number,license_validity) VALUES (%s,%s,%s,to_date(%s,'DD/MM/YYYY'))""",(firm_id,firm_license,lic_details[0],lic_details_x[0]))
+                    cur.execute(*sql)
+                    conn.commit()
                 record_map[hash_val] = '1'
                 #print firm_name_hash
                 records.append(record)
+                firm_id= firm_id+1
 
 
 
@@ -267,7 +310,27 @@ for district in option_values_district:
           "geocode": geocode,
           }
 
+        firm_name = row.find_element_by_xpath(".//td[1]").text
+        firm_address = row.find_element_by_xpath(".//td[2]").text
+        reg_pharma_comp_person = row.find_element_by_xpath(".//td[4]").text
+        firm_license = row.find_element_by_xpath(".//td[3]").text
+
+        sql = ("""INSERT INTO mdm_firm_details (firm_name,pharmacist,address,state,city,taluka,geocode) VALUES (%s,%s,%s,%s,%s,%s,%s)""",(firm_name,reg_pharma_comp_person,firm_address,state,district,taluka,geocode))
+        cur.execute(*sql)
+        conn.commit()
+
+
+        for lic in tooltip:
+          if "License:" not in lic:
+            lic_details = lic.split(' ')
+            lic_details_x = lic_details[2].split(')')
+
+            sql = ("""INSERT INTO mdm_firm_license (firm_id,license_type,license_number,license_validity) VALUES (%s,%s,%s,to_date(%s,'DD/MM/YYYY'))""",(firm_id,firm_license,lic_details[0],lic_details_x[0]))
+            cur.execute(*sql)
+            conn.commit()
+
         records.append(record)
+        firm_id= firm_id+1
     #creating output file and saving data is json format
     with open(taluka_dir + '/output.xlsx', 'wb') as xlfile:
       book = tablib.Databook()
